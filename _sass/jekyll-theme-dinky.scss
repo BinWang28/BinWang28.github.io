@@ -27,7 +27,7 @@ time, mark, audio, video {
 /* Base text styles */
 
 body {
-  padding:80px 100px 0 0;
+  padding:40px 100px 0 0;
   font-family:"Times New Roman", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	color: #232323;
@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p, ul, ol, table, dl {
-  margin:0 0 22px;
+  margin:0 0 10px;
 }
 
 h1, h2, h3 {
@@ -101,13 +101,13 @@ strong {
 ul {
   list-style-position: inside;
   list-style: disc;
-  padding-left: 25px;
+  padding-left: 50px;
 }
 
 ol {
   list-style-position: inside;
   list-style: decimal;
-  padding-left: 25px;
+  padding-left: 50px;
 }
 
 blockquote {
