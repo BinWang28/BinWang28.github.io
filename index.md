@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About Me
+### About Me
 
 I am currently a second-year Ph.D. student in Department of Electrical and Computer Engineering at University of Southern California, supervised by [C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh).
 
@@ -14,10 +14,6 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 * **Office:** Electrical Engineering Building #439 \\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3740 McClintock Ave. \\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Los Angeles, CA 90089
-
-***
-
-# News
 
 ### News:
 
