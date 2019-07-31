@@ -15,7 +15,6 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 
 ## News:
 * <span style="color:red"> *July 2019 >>* </span> Studying Algorithms -- [Check my github project](https://github.com/BinWang28/Algorithms).
-*   <sub><sup> July 2019 >> </sup></sub> July 2019>> Studying Algorithms -- [Check my github project](https://github.com/BinWang28/Algorithms).
 *   Item bar
 *   Item baz
 *   July 2017>> Graduated from University of Electronic Science and Technology of China (UESTC)! Cheers!
