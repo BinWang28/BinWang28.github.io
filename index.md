@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### About Me
+## About Me
 
 I am currently a second-year Ph.D. student in Department of Electrical and Computer Engineering at University of Southern California, supervised by [C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh).\\
 My research Interests lies in **Machine Learning** and its applications to **Natural Language Processing**, **Computer Vision** and **Multi-Modal Analysis**.\\
