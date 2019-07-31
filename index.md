@@ -20,21 +20,24 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 
 ### Publications:
 
-1.  * Evaluating Word Embedding Models: Methods and Experimental Results <br/>
-    **Bin Wang** *, Angela Wang*, Fenxiao Chen, Yunchen Wang, and C.-C. Jay Kuo <br/>
-    APSIPA Transactions on Signal and Information Processing, 8, E19. doi:10.1017/ATSIP.2019.12. [[Paper]](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/evaluating-word-embedding-models-methods-and-experimental-results/EDF43F837150B94E71DBB36B28B85E79)
-1.  Deepwalk-assisted Graph PCA (DGPCA) for language networks <br/>
-    Fenxiao Chen, **Bin Wang** and C.-C. Jay Kuo. <br/>
-    2019 International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019. (Lecture Session) [[Paper]](https://ieeexplore.ieee.org/abstract/document/8682615)
-1.  Post-Processing of Word Representations via Variance Normalization and Dynamic Embedding <br/>
-    **Bin Wang**, Fenxiao Chen, Angela Wang, and C.-C. Jay Kuo. <br/>
-    2019 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2019. (Oral Session) [[Paper]](https://arxiv.org/pdf/1808.06305.pdf), [[Code]](https://github.com/BinWang28/PVN-Post-Processing-of-word-representation-via-variance-normalization)
-1.  Hand gesture recognition and motion estimation using the Kinect Sensor <br/>
-    **Bin Wang**, Yunze Li, Haoxiang Lang and Ying Wang. <br/>
-    Mechatronic Systems and Control, 2019.
-1.  Graph-based Deep-Tree Recursive Neural Network (DTRNN) for Text Classification <br/>
-    Fenxiao Chen, **Bin Wang**, and C.-C. Jay Kuo. <br/>
-    Spoken Language Technology Workshop (SLT), 2018 IEEE. [[Paper]](https://arxiv.org/pdf/1809.01219.pdf)
+* Evaluating Word Embedding Models: Methods and Experimental Results <br/>
+  **Bin Wang** *, Angela Wang*, Fenxiao Chen, Yunchen Wang, and C.-C. Jay Kuo <br/>
+  APSIPA Transactions on Signal and Information Processing, 8, E19. doi:10.1017/ATSIP.2019.12. [[Paper]](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/evaluating-word-embedding-models-methods-and-experimental-results/EDF43F837150B94E71DBB36B28B85E79)
+* K-covers for active learning in image classification <br/>
+  Yeji Shen, Yuhang Song, Hanhan Li, Shahab Kamali, **Bin Wang** and C.-C. Jay Kuo <br/>
+  2019 IEEE International Conference on Multimedia and Expo (ICME) Workshop. IEEE, 2019.
+* Deepwalk-assisted Graph PCA (DGPCA) for language networks <br/>
+  Fenxiao Chen, **Bin Wang** and C.-C. Jay Kuo. <br/>
+  2019 International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019. (Lecture Session) [[Paper]](https://ieeexplore.ieee.org/abstract/document/8682615)
+* Post-Processing of Word Representations via Variance Normalization and Dynamic Embedding <br/>
+  **Bin Wang**, Fenxiao Chen, Angela Wang, and C.-C. Jay Kuo. <br/>
+  2019 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2019. (Oral Session) [[Paper]](https://arxiv.org/pdf/1808.06305.pdf), [[Code]](https://github.com/BinWang28/PVN-Post-Processing-of-word-representation-via-variance-normalization)
+* Hand gesture recognition and motion estimation using the Kinect Sensor <br/>
+  **Bin Wang**, Yunze Li, Haoxiang Lang and Ying Wang. <br/>
+  Mechatronic Systems and Control, 2019.
+* Graph-based Deep-Tree Recursive Neural Network (DTRNN) for Text Classification <br/>
+  Fenxiao Chen, **Bin Wang**, and C.-C. Jay Kuo. <br/>
+  Spoken Language Technology Workshop (SLT), 2018 IEEE. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8639625)
 
 ### Projects:
 
