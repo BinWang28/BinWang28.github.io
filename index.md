@@ -44,8 +44,7 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
   Spoken Language Technology Workshop (SLT), 2018 IEEE. <br/>
   [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8639625) [Code]*
 
-(^equal contribution)
-<small> dafafa </small>
+(* equal contribution)
 
 ### Projects:
 
@@ -66,7 +65,7 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 
 
 
-
+<!--
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -188,3 +187,7 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+
+-->
+
