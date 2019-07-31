@@ -20,7 +20,7 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 
 ### Publications:
 
-* <span style="color:red"> *Jul 2019 >>* </span> **Evaluating Word Embedding Models: Methods and Experimental Results** <br/>
+* **Evaluating Word Embedding Models: Methods and Experimental Results** <br/>
   * **Bin Wang**^, Angela Wang^, Fenxiao Chen, Yunchen Wang, and C.-C. Jay Kuo <br/>
   APSIPA Transactions on Signal and Information Processing, 8, E19, 2019. <br/>
   [[Paper]](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/evaluating-word-embedding-models-methods-and-experimental-results/EDF43F837150B94E71DBB36B28B85E79) [Code]*
