@@ -1,5 +1,8 @@
 title: Bin Wang (Barry)
+<<<<<<< HEAD
+description: University of Southern California
+=======
 description: 
 show_downloads: false
+show_downloads: true
 google_analytics:
-theme: jekyll-theme-dinky
