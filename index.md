@@ -18,7 +18,7 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 *   Item foo
 *   Item bar
 *   Item baz
-*   July 2017>
+*   July 2017> Graduated from University of Electronic Science and Technology of China (UESTC)! Cheers!
 
 ## Publications:
 
