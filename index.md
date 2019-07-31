@@ -15,7 +15,13 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3740 McClintock Ave. \\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Los Angeles, CA 90089
 
-# dd
+<dl>
+
+# News
+
+# Publications
+
+# 
 
 
 
