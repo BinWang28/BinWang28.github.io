@@ -7,7 +7,6 @@ layout: default
 I am currently a second-year Ph.D. student in Department of Electrical and Computer Engineering at University of Southern California, supervised by [C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh).\\
 My research Interests lies in **Machine Learning** and its applications to **Natural Language Processing**, **Computer Vision** and **Multi-Modal Analysis**.\\
 Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Scholar](https://scholar.google.com/citations?user=jUrRMv4AAAAJ&hl=en).
-
 * **Email:** bwang28c@gmail.com
 * **Office:** Electrical Engineering Building #439 \\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3740 McClintock Ave. \\
@@ -23,11 +22,11 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 * **Evaluating Word Embedding Models: Methods and Experimental Results** <br/>
   * **Bin Wang**^, Angela Wang^, Fenxiao Chen, Yunchen Wang, and C.-C. Jay Kuo <br/>
   APSIPA Transactions on Signal and Information Processing, 8, E19, 2019. <br/>
-  [[Paper]](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/evaluating-word-embedding-models-methods-and-experimental-results/EDF43F837150B94E71DBB36B28B85E79) [Code]*
+  [[Paper]](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/evaluating-word-embedding-models-methods-and-experimental-results/EDF43F837150B94E71DBB36B28B85E79) [Code] *
 * **K-covers for active learning in image classification** <br/>
   *Yeji Shen, Yuhang Song, Hanhan Li, Shahab Kamali, **Bin Wang** and C.-C. Jay Kuo <br/>
   2019 IEEE International Conference on Multimedia and Expo (ICME) Workshop. IEEE, 2019.<br/>
-  [[Paper]]() [[Code]]()*
+  [Paper] [Code] *
 * **Deepwalk-assisted Graph PCA (DGPCA) for language networks** <br/>
   *Fenxiao Chen, **Bin Wang** and C.-C. Jay Kuo. <br/>
   2019 International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019. (Lecture Session) <br/>
