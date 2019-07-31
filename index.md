@@ -9,7 +9,7 @@ I am currently a second-year Ph.D. student in Department of Electrical and Compu
 My research Interests lies in **Machine Learning** and its applications to **Natural Language Processing**, **Computer Vision** and **Multi-Modal Analysis**.  
 
 
-Here is my CV/Github/Google Scholar.
+Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/Google Scholar.
 
 **Email:** bwang
 
