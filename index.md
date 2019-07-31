@@ -22,7 +22,13 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 *   Item baz
 *   Item zip
 
-# Publications
+### Publications
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
 
 # 
 
