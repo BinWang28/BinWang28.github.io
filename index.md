@@ -45,7 +45,8 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
   [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8639625) [Code]*
 
 (^equal contribution)
-<small>dafafa</small>
+<small> dafafa </small>
+
 ### Projects:
 
 
