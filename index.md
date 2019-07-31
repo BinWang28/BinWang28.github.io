@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### About Me
+## About Me
 
 I am currently a second-year Ph.D. student in Department of Electrical and Computer Engineering at University of Southern California, supervised by [C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh).\\
 My research Interests lies in **Machine Learning** and its applications to **Natural Language Processing**, **Computer Vision** and **Multi-Modal Analysis**.\\
@@ -12,12 +12,12 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3740 McClintock Ave. \\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Los Angeles, CA 90089
 
-### News:
+## News:
 * <span style="color:red"> *Jul 2019 >>* </span> One paper on word embedding evaluation publised at APSIPA SIP journal. [[Paper]](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/evaluating-word-embedding-models-methods-and-experimental-results/EDF43F837150B94E71DBB36B28B85E79).
 * <span style="color:red"> *Jul 2019 >>* </span> Studying Algorithms -- My github [project](https://github.com/BinWang28/Algorithms).
 * <span style="color:red"> *Jul 2019 >>* </span> Attending [ICME 2019 Conference](https://www.icme2019.org/) at ShangHai.
 
-### Publications:
+## Publications:
 
 * **Evaluating Word Embedding Models: Methods and Experimental Results** <br/>
   ***Bin Wang*** * *, Angela Wang* * *, Fenxiao Chen, Yunchen Wang, and C.-C. Jay Kuo <br/>
@@ -49,7 +49,7 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 
 
 
-#### Arcade News:
+### Arcade News:
 
 * <span style="color:red"> *Apr 2019 >>* </span> One paper on Active Learning accepted by ICME 2019 Workship.
 * <span style="color:red"> *Mar 2019 >>* </span> One paper on Word Embedding accepted by ICME 2019 Conference.[[Paper]](https://arxiv.org/abs/1808.06305)
