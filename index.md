@@ -14,7 +14,7 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Los Angeles, CA 90089
 
 ## News:
-* <span style="color:blue"> *July 2019 >>* </span> Studying Algorithms -- [Check my github project](https://github.com/BinWang28/Algorithms).
+* <span style="color:red"> *July 2019 >>* </span> Studying Algorithms -- [Check my github project](https://github.com/BinWang28/Algorithms).
 *   <sub><sup> July 2019 >> </sup></sub> July 2019>> Studying Algorithms -- [Check my github project](https://github.com/BinWang28/Algorithms).
 *   Item bar
 *   Item baz
