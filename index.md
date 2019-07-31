@@ -11,11 +11,9 @@ My research Interests lies in **Machine Learning** and its applications to **Nat
 Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Scholar](https://scholar.google.com/citations?user=jUrRMv4AAAAJ&hl=en).
 
 * **Email:** bwang28c@gmail.com
-<pre>
 * **Office:** Electrical Engineering Building #439 \\
               3740 McClintock Ave. \\
               Los Angeles, CA 90089
-</pre>
 
 # dd
 
