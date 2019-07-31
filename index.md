@@ -42,8 +42,7 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 * **Graph-based Deep-Tree Recursive Neural Network (DTRNN) for Text Classification** <br/>
   *Fenxiao Chen, **Bin Wang**, and C.-C. Jay Kuo. <br/>
   Spoken Language Technology Workshop (SLT), 2018 IEEE. <br/>
-  [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8639625) [Code]*
-
+  [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8639625) [Code]*\\
 (* equal contribution)
 
 ### Projects:
