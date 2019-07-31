@@ -13,14 +13,14 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3740 McClintock Ave. \\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Los Angeles, CA 90089
 
-### News:
+## News:
 
 *   Item foo
 *   Item bar
 *   Item baz
-*   Item zip
+*   July 2017>
 
-### Publications:
+## Publications:
 
 1.  Item one
 1.  Item two
@@ -28,7 +28,7 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 1.  Item four
 
 
-### Projects:
+## Projects:
 
 
 
