@@ -19,6 +19,13 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 
 # News
 
+### News:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
 # Publications
 
 # 
