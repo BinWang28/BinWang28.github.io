@@ -2,6 +2,20 @@
 layout: default
 ---
 
+# About Me
+
+I am currently a second-year Ph.D. student in Department of Electrical and Computer Engineering at University of Southern California, supervised by C.-C. Jay Kuo. My research Interests lies in Machine Learning and its applications to Natural Language Processing, Computer Vision and Multi-Modal Analysis.  
+
+# dd
+
+
+
+
+
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
