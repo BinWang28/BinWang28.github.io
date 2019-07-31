@@ -51,7 +51,7 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 
 
 
-### Arcade News:
+#### Arcade News:
 
 * <span style="color:red"> *Apr 2019 >>* </span> One paper on Active Learning accepted by ICME 2019 Workship.
 * <span style="color:red"> *Mar 2019 >>* </span> One paper on Word Embedding accepted by ICME 2019 Conference.[[Paper]](https://arxiv.org/abs/1808.06305)
