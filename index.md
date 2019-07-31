@@ -20,7 +20,7 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 *   Item baz
 *   Item zip
 
-### Publications
+### Publications:
 
 1.  Item one
 1.  Item two
@@ -28,7 +28,7 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 1.  Item four
 
 
-# 
+### Projects:
 
 
 
