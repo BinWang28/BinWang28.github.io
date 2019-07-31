@@ -8,7 +8,7 @@ I am currently a second-year Ph.D. student in Department of Electrical and Compu
 My research Interests lies in **Machine Learning** and its applications to **Natural Language Processing**, **Computer Vision** and **Multi-Modal Analysis**.\\
 Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Scholar](https://scholar.google.com/citations?user=jUrRMv4AAAAJ&hl=en).
 * **Email:** bwang28c@gmail.com
-* **Office:** Electrical Engineering Building #439 \\
+* **Office:** Electrical Engineering Building, Room 439 \\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3740 McClintock Ave. \\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Los Angeles, CA 90089
 
