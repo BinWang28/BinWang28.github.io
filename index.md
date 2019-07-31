@@ -20,9 +20,9 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 
 ### Publications:
 
-* Evaluating Word Embedding Models: Methods and Experimental Results <br/>
-  **Bin Wang** *, Angela Wang*, Fenxiao Chen, Yunchen Wang, and C.-C. Jay Kuo <br/>
-  APSIPA Transactions on Signal and Information Processing, 8, E19. doi:10.1017/ATSIP.2019.12. [[Paper]](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/evaluating-word-embedding-models-methods-and-experimental-results/EDF43F837150B94E71DBB36B28B85E79)
+* **Evaluating Word Embedding Models: Methods and Experimental Results** <br/>
+  ***Bin Wang** *, Angela Wang*, Fenxiao Chen, Yunchen Wang, and C.-C. Jay Kuo*<br/>
+  *APSIPA Transactions on Signal and Information Processing, 8, E19. doi:10.1017/ATSIP.2019.12. [[Paper]](https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/evaluating-word-embedding-models-methods-and-experimental-results/EDF43F837150B94E71DBB36B28B85E79)*
 * K-covers for active learning in image classification <br/>
   Yeji Shen, Yuhang Song, Hanhan Li, Shahab Kamali, **Bin Wang** and C.-C. Jay Kuo <br/>
   2019 IEEE International Conference on Multimedia and Expo (ICME) Workshop. IEEE, 2019.
