@@ -51,6 +51,9 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 
 ### Projects:
 
+* **USC-CSCI599-Deep Learning** <br/>
+  **Course Project:** Dynamic Texture Synthesis** <br/>
+  [[Project Website]](https://binwang28.github.io/Dynamic_Texture/introduction/)
 
 
 ### Arcade News:
