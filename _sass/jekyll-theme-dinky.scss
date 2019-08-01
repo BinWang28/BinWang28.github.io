@@ -218,8 +218,9 @@ td {
 header {
 	background-color: #171717;
 	color: #FDFDFB;
-  width:200px;
-  float:left;
+  top: 0;
+  left: 0;
+  width: 200px;
   position:fixed;
 	border: 1px solid #000;
 	-webkit-border-top-right-radius: 4px;
