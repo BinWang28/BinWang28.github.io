@@ -51,10 +51,9 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 
 ### Projects:
 
-* <span style="color:red"> *Spring 2019 >>* </span> **USC-CSCI599-Deep Learning** <br/>
+* <span style="color:red"> *Spring 2019 >>* </span> **USC - CSCI 599 - Deep Learning** <br/>
   **Course Project:** Dynamic Texture Synthesis; [[Project Website]](https://binwang28.github.io/Dynamic_Texture/introduction/)
-* <span style="color:red"> *Oct 2016 >>* </span> **UOIT-SLAM/Hand Gesture Recognition** <br/>
-  [[YouTube Video 1]](https://www.youtube.com/watch?v=qq9L5BcOeig&t=30s)[[YouTube Video 2]](https://www.youtube.com/watch?v=etjiZT4aRaQ)
+* <span style="color:red"> *Oct 2016 >>* </span> **UOIT - SLAM / Hand Gesture Recognition** [[YouTube Video 1]](https://www.youtube.com/watch?v=qq9L5BcOeig&t=30s) [[YouTube Video 2]](https://www.youtube.com/watch?v=etjiZT4aRaQ)
 
 
 ### Arcade News:
