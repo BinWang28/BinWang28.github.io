@@ -330,8 +330,7 @@ section {
 /* Footer */
 
 footer {
-  width:170px;
-  bottom:10px;
+
 }
 
 @media print, screen and (max-width: 1260px) {
@@ -373,7 +372,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 1720px) {
+@media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
   }
@@ -397,7 +396,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 1480px) {
+@media print, screen and (max-width: 480px) {
 
   header ul li.download {
     display:none;
