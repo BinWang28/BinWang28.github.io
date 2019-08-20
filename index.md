@@ -30,7 +30,7 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 * **K-covers for active learning in image classification** <br/>
   *Yeji Shen, Yuhang Song, Hanhan Li, Shahab Kamali, **Bin Wang** and C.-C. Jay Kuo <br/>
   2019 IEEE International Conference on Multimedia and Expo (ICME) Workshop. IEEE, 2019.<br/>
-  [Paper] [Code]*
+  [[Paper]](https://ieeexplore.ieee.org/abstract/document/8794958) [Code]*
 * **Deepwalk-assisted Graph PCA (DGPCA) for language networks** <br/>
   *Fenxiao Chen, **Bin Wang** and C.-C. Jay Kuo. <br/>
   2019 International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019. (Lecture Session) <br/>
@@ -38,7 +38,7 @@ Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Sc
 * **Post-Processing of Word Representations via Variance Normalization and Dynamic Embedding** <br/>
   ***Bin Wang**, Fenxiao Chen, Angela Wang, and C.-C. Jay Kuo. <br/>
   2019 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2019. (Oral Session) <br/>
-  [[Paper]](https://arxiv.org/pdf/1808.06305.pdf) [[Code]](https://github.com/BinWang28/PVN-Post-Processing-of-word-representation-via-variance-normalization)*
+  [[Paper]](https://ieeexplore.ieee.org/abstract/document/8784743) [[Code]](https://github.com/BinWang28/PVN-Post-Processing-of-word-representation-via-variance-normalization)*
 * **Hand gesture recognition and motion estimation using the Kinect Sensor** <br/>
   ***Bin Wang**, Yunze Li, Haoxiang Lang and Ying Wang. <br/>
   Mechatronic Systems and Control, 2019.<br/>
