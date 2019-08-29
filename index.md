@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am currently a second-year Ph.D. student in Department of Electrical and Computer Engineering at University of Southern California, supervised by [C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh).\\
+I am currently a third-year Ph.D. student in Department of Electrical and Computer Engineering at University of Southern California, supervised by [C.-C. Jay Kuo](https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh).\\
 My research Interests lies in **Machine Learning** and its applications to **Natural Language Processing**, **Computer Vision** and **Multi-Modal Data Analysis**.\\
 Here is my [CV](./docs/CV.pdf)/[Github](https://github.com/BinWang28)/[Google Scholar](https://scholar.google.com/citations?user=jUrRMv4AAAAJ&hl=en).
 * **Email:** bwang28c@gmail.com
