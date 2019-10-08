@@ -5,7 +5,7 @@
     <link>https://binwang28.github.io/tags/</link>
       <atom:link href="https://binwang28.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Lastest Update: October 2019</copyright><lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://binwang28.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,10 +13,74 @@
     </image>
     
     <item>
-      <title>Source Themes</title>
-      <link>https://binwang28.github.io/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://binwang28.github.io/tags/source-themes/</guid>
+      <title>Moments</title>
+      <link>https://binwang28.github.io/tags/moments/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/tags/moments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word Embedding</title>
+      <link>https://binwang28.github.io/tags/word-embedding/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/tags/word-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Learning</title>
+      <link>https://binwang28.github.io/tags/active-learning/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/tags/active-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepWalk</title>
+      <link>https://binwang28.github.io/tags/deepwalk/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/tags/deepwalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Embedding</title>
+      <link>https://binwang28.github.io/tags/graph-embedding/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/tags/graph-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Node Classification</title>
+      <link>https://binwang28.github.io/tags/graph-node-classification/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/tags/graph-node-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hand Gesture</title>
+      <link>https://binwang28.github.io/tags/hand-gesture/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/tags/hand-gesture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinect</title>
+      <link>https://binwang28.github.io/tags/kinect/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/tags/kinect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNN</title>
+      <link>https://binwang28.github.io/tags/rnn/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/tags/rnn/</guid>
       <description></description>
     </item>
     
@@ -33,14 +97,6 @@
       <link>https://binwang28.github.io/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://binwang28.github.io/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic</title>
-      <link>https://binwang28.github.io/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://binwang28.github.io/tags/academic/</guid>
       <description></description>
     </item>
     

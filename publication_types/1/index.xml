@@ -5,7 +5,7 @@
     <link>https://binwang28.github.io/publication_types/1/</link>
       <atom:link href="https://binwang28.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Lastest Update: October 2019</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://binwang28.github.io/img/icon-192.png</url>
       <title>1</title>
@@ -13,24 +13,35 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://binwang28.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://binwang28.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Post-Processing of Word Representations via Variance Normalization and Dynamic Embedding</title>
+      <link>https://binwang28.github.io/publication/3-post-processing_word_em/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/publication/3-post-processing_word_em/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K-Covers for Active Learning in Image Classification</title>
+      <link>https://binwang28.github.io/publication/5-k-cover/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/publication/5-k-cover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deepwalk-assisted Graph PCA (DGPCA) for Language Networks</title>
+      <link>https://binwang28.github.io/publication/4-dgpca/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/publication/4-dgpca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph-based Deep-Tree Recursive Neural Network (DTRNN) for Text Classification</title>
+      <link>https://binwang28.github.io/publication/1-graph-based-deep-tree/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/publication/1-graph-based-deep-tree/</guid>
+      <description></description>
     </item>
     
   </channel>

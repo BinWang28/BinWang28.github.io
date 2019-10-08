@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bin Wang (王斌)</title>
+    <link>https://binwang28.github.io/courses/2018-ta483/</link>
+      <atom:link href="https://binwang28.github.io/courses/2018-ta483/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bin Wang (王斌)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Lastest Update: October 2019</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://binwang28.github.io/img/icon-192.png</url>
+      <title>Bin Wang (王斌)</title>
+      <link>https://binwang28.github.io/courses/2018-ta483/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://binwang28.github.io/authors/</link>
       <atom:link href="https://binwang28.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Lastest Update: October 2019</copyright><lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://binwang28.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,19 +15,107 @@
     <item>
       <title></title>
       <link>https://binwang28.github.io/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://binwang28.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+      <description>&lt;p&gt;I am Bin Wang, a third-year Ph.D. student in machine learning and natural language processing at USC. My advisor is C.-C. Jay Kuo.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+&lt;p&gt;Before coming to USC, I received his Bachelor’s degree in Electronic Information Engineering from University of Electronic Science and Technology of China (UESTC), Chengdu, China in June, 2017.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>https://binwang28.github.io/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://binwang28.github.io/authors/robert-ford/</guid>
+      <title>Angela Wang</title>
+      <link>https://binwang28.github.io/authors/angela-wang/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/authors/angela-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bin Wang</title>
+      <link>https://binwang28.github.io/authors/bin-wang/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/authors/bin-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C.-C. Jay Kuo</title>
+      <link>https://binwang28.github.io/authors/c.-c.-jay-kuo/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/authors/c.-c.-jay-kuo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fenxiao Chen</title>
+      <link>https://binwang28.github.io/authors/fenxiao-chen/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/authors/fenxiao-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuncheng Wang</title>
+      <link>https://binwang28.github.io/authors/yuncheng-wang/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/authors/yuncheng-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hanhan Li</title>
+      <link>https://binwang28.github.io/authors/hanhan-li/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/authors/hanhan-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shahab Kamali</title>
+      <link>https://binwang28.github.io/authors/shahab-kamali/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/authors/shahab-kamali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeji Shen</title>
+      <link>https://binwang28.github.io/authors/yeji-shen/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/authors/yeji-shen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuhang Song</title>
+      <link>https://binwang28.github.io/authors/yuhang-song/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/authors/yuhang-song/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haoxiang Lang</title>
+      <link>https://binwang28.github.io/authors/haoxiang-lang/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/authors/haoxiang-lang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ying Wang</title>
+      <link>https://binwang28.github.io/authors/ying-wang/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/authors/ying-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yunze Li</title>
+      <link>https://binwang28.github.io/authors/yunze-li/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://binwang28.github.io/authors/yunze-li/</guid>
       <description></description>
     </item>
     
