@@ -121,7 +121,7 @@
   <meta property="og:description" content="Ph.D. Student"><meta property="og:image" content="https://binwang28.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://binwang28.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2019-10-07T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2019-10-08T00:00:00&#43;00:00">
   
 
   
@@ -368,6 +368,16 @@
   
 
   
+  
+  <div>
+    <h2><a href="/post/10-8-macos_catalina/">解决：更新MacOS Catalina后, Anaconda无法使用问题</a></h2>
+    <div class="article-style">
+      
+       苹果本次升级提高了安全等级，所有程序无法安装在根目录下，因此，原来默认安装在根目录下的Anaconda被暂时保存。 Steps to fix that:  Move folder from &lsquo;User/Shared/XX/anaconda3&rsquo; to &lsquo;/User/binwang/anaconda3&rsquo; Open Terminal Activate zsh: chsh -s /bin/zsh In Terminal: export PATH=&ldquo;/Users/my_user/anaconda3/bin:$PATH&rdquo; Edit file: /Users/my_user/anaconda3/bin/conda Edit the first line like: #!/Users/my_user/anaconda3/bin/python Save changes /Users/my_user/anaconda3/bin/conda init zsh  You have to change my_user to your account name. For me, it is &lsquo;binwang&rsquo;.
+本次升级其他应注意事项  所有32位程序均无法运行。 使用Sidecar投影到ipad需要ipad同时运行。 PyCharm的anaconda path也要更新。  
+      
+    </div>
+  </div>
   
   <div>
     <h2><a href="/post/10-7-start_working/">Several Bullets to keep in mind!</a></h2>

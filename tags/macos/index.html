@@ -31,7 +31,7 @@
   <meta name="description" content="Ph.D. Student">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://binwang28.github.io/tags/">
+  <link rel="alternate" hreflang="en-us" href="https://binwang28.github.io/tags/macos/">
 
   
 
@@ -96,14 +96,14 @@
 
 
   
-  <link rel="alternate" href="/tags/index.xml" type="application/rss+xml" title="Bin Wang (王斌)">
+  <link rel="alternate" href="/tags/macos/index.xml" type="application/rss+xml" title="Bin Wang (王斌)">
   
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://binwang28.github.io/tags/">
+  <link rel="canonical" href="https://binwang28.github.io/tags/macos/">
 
   
   
@@ -116,8 +116,8 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Bin Wang (王斌)">
-  <meta property="og:url" content="https://binwang28.github.io/tags/">
-  <meta property="og:title" content="Tags | Bin Wang (王斌)">
+  <meta property="og:url" content="https://binwang28.github.io/tags/macos/">
+  <meta property="og:title" content="MacOS | Bin Wang (王斌)">
   <meta property="og:description" content="Ph.D. Student"><meta property="og:image" content="https://binwang28.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://binwang28.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
@@ -138,7 +138,7 @@
 
 
 
-  <title>Tags | Bin Wang (王斌)</title>
+  <title>MacOS | Bin Wang (王斌)</title>
 
 </head>
 
@@ -355,7 +355,7 @@
     
   
 <div class="universal-wrapper pt-3">
-  <h1>Tags</h1>
+  <h1>MacOS</h1>
 
   
 
@@ -370,30 +370,17 @@
   
   
   <div>
-    <h2><a href="/tags/deep-learning/">Deep Learning</a></h2>
+    <h2><a href="/post/10-8-macos_catalina/">解决：更新MacOS Catalina后, Anaconda无法使用问题</a></h2>
     <div class="article-style">
       
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/tags/demo/">Demo</a></h2>
-    <div class="article-style">
+       苹果本次升级提高了安全等级，所有程序无法安装在根目录下，因此，原来默认安装在根目录下的Anaconda被暂时保存。 Steps to fix that:  Move folder from &lsquo;User/Shared/XX/anaconda3&rsquo; to &lsquo;/User/binwang/anaconda3&rsquo; Open Terminal Activate zsh: chsh -s /bin/zsh In Terminal: export PATH=&ldquo;/Users/my_user/anaconda3/bin:$PATH&rdquo; Edit file: /Users/my_user/anaconda3/bin/conda Edit the first line like: #!/Users/my_user/anaconda3/bin/python Save changes /Users/my_user/anaconda3/bin/conda init zsh  You have to change my_user to your account name. For me, it is &lsquo;binwang&rsquo;.
+本次升级其他应注意事项  所有32位程序均无法运行。 使用Sidecar投影到ipad需要ipad同时运行。 PyCharm的anaconda path也要更新。  
       
     </div>
   </div>
   
 
   
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    <li class="page-item"><a class="page-link" href="/tags/">&laquo;</a></li>
-    
-    
-  </ul>
-</nav>
-
 
 </div>
 
