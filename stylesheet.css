@@ -129,3 +129,29 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+
+
+
+.sidenav {
+  width: 130px;
+  position: fixed;
+  z-index: 1;
+  top: 20px;
+  left: 10px;
+  background: #eee;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  padding: 8px 0;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 15px;
+  color: #796304;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #064579;
+}
