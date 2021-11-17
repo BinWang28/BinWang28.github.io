@@ -1,3 +1,0 @@
-Bin Wang receives his Ph.D. degree from University of Southern California (USC) under the supervision of Prof. C.-C. Jay Kuo in 2021 and his B.Eng degree from University of Electronic Science and Technology of China (UESTC) in 2017. 
-He is currently a research fellow at National University of Singapore.
-His research interests focus on natural language processing, especially representation learning.
