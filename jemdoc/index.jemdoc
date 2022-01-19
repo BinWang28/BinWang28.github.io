@@ -1,0 +1,43 @@
+# jemdoc: menu{MENU}{index.html}, analytics{UA-144973743-1}
+==Bin Wang (王斌)
+
+~~~
+{}{img_left}{data/profile.png}{alt text}{210}{210}{https://binwang28.github.io/}
+Postdoctoral Research Fellow, PhD,
+\n 
+[https://cde.nus.edu.sg/ece/ Electrical and Computer Engineering],
+\n
+[https://www.nus.edu.sg/ National University of Singapore (NUS)]
+\n
+Address: \#06-20, Block E4, 4 Engineering Drive 3, Singapore 117583
+\n
+Phone: \+95 8439 0347
+\n
+Email: /bwang28c/ \[@\] gmail \[DOT\] com
+\n\n
+\[[https://scholar.google.com/citations?user=jUrRMv4AAAAJ&hl=en Google Scholar]]   
+\[[https://github.com/BinWang28 GitHub]]   
+\[[https://www.linkedin.com/in/bin-wang-3b7054140/ LinkedIn]]
+~~~
+
+== About me
+I am currently a Postdoctoral Research Fellow at National University of Singapore ([https://www.nus.edu.sg/ NUS]) - Human Language Technology ([https://cde.nus.edu.sg/ece/hlt/ HLT]) Lab working with Prof. [https://colips.org/~eleliha/ Haizhou Li]. 
+\n
+Before that, I received both Ph.D. and M.S. degrees from University of Southern California ([https://www.usc.edu/ USC]) supervised by Prof. [https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh C.-C. Jay Kuo] in 2021 and 2019, respectively.
+\n
+My bachelor's degree is obtained from University of Electronic Science and Technology of China ([https://en.uestc.edu.cn/ UESTC]) in 2017.
+
+
+== Research
+My research interests include 
+- Representation Learning for Words, Sentences and (Knowledge) Graphs
+- Dialogue Summarization
+- Information Extraction in Dialogues
+
+[research.html Find out more].
+=== Selected Publications 
+. Bin Wang, Guangtao Wang, Jing Huang, Jiaxuan You, Jure Leskovec, and C-C. Jay Kuo. "Inductive learning on commonsense knowledge graph completion." IEEE International Joint Conference on Neural Networks (IJCNN), 2021. \[[https://arxiv.org/abs/2009.09263 pdf]\]
+. Bin Wang, and C.-C. Jay Kuo. "SBERT-WK: A sentence embedding method by dissecting bert-based word models." IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020. \[[https://ieeexplore.ieee.org/document/9140343 pdf]\]
+. Bin Wang, Angela Wang, Fenxiao Chen, Yuncheng Wang, and C.-C. Jay Kuo. "Evaluating word embedding models: methods and experimental results." APSIPA transactions on signal and information processing, 2019. \[[https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/evaluating-word-embedding-models-methods-and-experimental-results/EDF43F837150B94E71DBB36B28B85E79 pdf]\]
+
+[publications.html Full list of publications].

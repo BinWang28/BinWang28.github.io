@@ -1,0 +1,45 @@
+# jemdoc: menu{MENU}{publications.html}  
+
+== Publications
+here is a full list of my publications:
+\n
+
+
+under construction
+== Preprints
+. xxxx
+
+
+== Conferences
+
+. E. Ghadimi, A. Teixeira, and M. Johansson, \" Guaranteed asymptotic performance of ADMM for distributed optimization\", Submitted, 2015.
+. E. Ghadimi, H. R. Feyzmahdavian, and M. Johansson \" Global convergence of the Heavy-ball method for convex optimization\", In ECC'15: European Control Conference, Austria, 2015.
+. E. Ghadimi, A. Teixeira, M. Rabbat, and M. Johansson, \" The ADMM algorithm for distributed averaging: Convergence rates and optimal parameter selection\", In Asilomar'14: Proceedings of the 48th Asilomar Conference on Signals, Systems and Computers, 2014. \[[https://www.dropbox.com/s/k9izxz1m39yvvuz/admm_distributed_aveg.pdf?dl=0 pdf] \]
+. A. Teixeira, E. Ghadimi, I. Shames, H. Sandberg, and M. Johansson \" Optimal scaling of the ADMM algorithm for distributed quadratic programming\", In CDC'13: IEEE Conference on Decision and Control, 2013. 
+. E. Ghadimi, A. Teixeira, I. Shames, and M. Johansson, \" On the optimal step-size selection for the alternating direction method of multipliers\", In Necsys'12: Proceeding of IFAC Workshop on Estimation and Control of Networked Systems, 2012. *Best Student Paper Award Finalist*
+. E. Ghadimi, O. Landsiedel, P. Soldati, and M. Johansson \" A metric for opportunistic routing in duty cycled wireless sensor networks\", In SECON'12: Proceedings of the 9th IEEE Conference on Sensor, Mesh and Ad Hoc Communications and Networks, 2012. 
+. O. Landsiedel, E. Ghadimi, S. Duquennoy, and M. Johansson \" Low power, low delay: opportunistic routing meets duty cycling\", In IPSN'12: Proceedings of the 11th ACM/IEEE International Conference on Information Processing in Sensor Networks, 2012. 
+. E. Ghadimi, P. Soldati, F. Osterlind, H. Zhang, and M. Johansson \" Hidden terminal-aware contention resolution with an optimal distribution\", In MASS'11: Proceedings of the 8th IEEE International Conference on Mobile Ad-hoc and Sensor Systems, 2011. 
+. E. Ghadimi, M. Johansson, and I. Shames \" Accelerated gradient methods for networked optimization\", In ACC'11: Proceedings of American Control Conference, 2011. 
+. J. Araujo, E. Ghadimi, and O. Landsiedel, \" Random-Access medium access control in wireless sensor networks: what's the best choice?\", In ADHOC'11: Proceedings of the 10th Scandinavian Workshop on Wireless Ad-hocNetworks, 2011. 
+. M. Larsson, J. Lindberg, J. Lycke, K. Hansson, A. Khakulov, E. Ringh, F. Svensson, I. Tjernberg, A. Alam, J. ArauÌjo, F. Farokhi, E. Ghadimi, A. Teixeira, D. V. Dimarogonas, and K. H. Johansson. \" Towards an indoor testbed for mobile networked control systems\", In Proceedings of the First Workshop on Research, Development and Education on Unmanned Aerial Systems, 2011.
+. E. Ghadimi, A. Khonsari, M. S. Talebi, and N. Yazdani, \" Loss Aware Geographic Routing for Unreliable Wireless Sensor Networks\". In CCNC'09: Proceedings of IEEE conference on Consumer Communication, 2009. 
+. E. Ghadimi, N. Yazdani, and A. Khonsari: \" GWRR: greedy weighted region routing in wireless sensor networks\". In ICPADS'08: Proceeding of 14th IEEE Conference on Parallel and Distributed Systems, 2008. 
+. E. Ghadimi, N. Yazdani, and A. Safilian. \" Geographic routing in presence of the loss in wireless sensor networks\". In IST'08: Proceeding of 4th International Symposium of Telecommunication, 2008. 
+. A. Abbasi, E. Ghadimi, A. Khonsari, N. Yazdani, and M. Ould-Khaoua: \" A distributed clustering algorithm for fault-tolerant event region detection in wireless sensor networks\". ISPA'07: Proceeding of the 5th International Symposium on Parallel and Distributed Processing and Applications. 
+
+== Journals
+. E. Ghadimi, H. R. Feyzmahdavian, and M. Johansson \" Global convergence of the Heavy-ball method for convex optimization\", Submitted, 2014. \[[http://arxiv.org/abs/1412.7457 arxiv]\]
+. A. Teixeira, E. Ghadimi, I. Shames, H. Sandberg, and M. Johansson \" Optimal scaling of the ADMM algorithm for distributed quadratic programming\", submitted, 2014. \[[http://arxiv.org/abs/1303.6680 arxiv]\]
+. E. Ghadimi, A. Teixeira, I. Shames, and M. Johansson \" Optimal parameter selection for the alternating direction method of
+multipliers (ADMM): quadratic problems\", IEEE Transactions on Automatic Control, 2015. \[[http://arxiv.org/abs/1306.2454 arxiv]\]
+. E. Ghadimi, O. Landsiedel, P. Soldati, S. Duquennoy, and M. Johansson, \" Opportunistic routing in low duty-cycle wireless sensor networks\", ACM Transactions on Senor Networks, 2014. \[[pub/oppTOSN.pdf pdf]\]
+. E. Ghadimi, I. Shames, and M. Johansson \" Multi-step gradient methods for networked optimization\", IEEE Transactions on Signal Processing, 2013. \[[pub/tsp13.pdf pdf]\] \[[pub/Tsp13_matlab.rar matlab code]\]
+. E. Ghadimi, A. Khonsari, A. Diyanat, M. Farmani, and N. Yazdani \" An analytical model of delay in multi-hop wireless ad hoc networks\", ACM Wireless Networks Journal vol. 17, no. 7, pp. 1679-1697, 2011.
+
+
+== Thesis
+
+. E. Ghadimi: \" Accelerating Convergence of Large-scale Optimization Algorithms\", PHD thesis, KTH- Royal Institute of Technology, 2015. \[[pub/thesis.pdf pdf]\]
+. E. Ghadimi: \" Routing and link layer analysis in wireless networks with constraints\", MsC thesis, University of Tehran, 2008.
+. E. Ghadimi \" Design and implementation of a web-based database report generator\", BsC thesis, Iran Univerity of Science and Technology (IUST), 2005.

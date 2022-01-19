@@ -1,0 +1,124 @@
+# jemdoc: menu{MENU}{research.html}  
+
+
+{{<div align="center">
+<img src="data/word_cloud.jpg" alt="research" height="378" width="735">
+<br>
+<div align="justify">
+This page is an attempt to organize papers into distinct research areas, and to provide an overview of my works. 
+Naturally, the page is selective both in terms of research areas and the papers listed. For a more complete picture, please see the publications page.
+</div>
+</div>}}
+
+== Representation Learning on Words, Sentences and Knowledge Graphs
+\n
+
+== Dialogue-based Information Extraction
+\n
+
+
+
+under construction ...
+
+== REAL-TIME SENSOR NETWORKING
+
+*Optimal parameter selection for the alternating direction method of multipliers (ADMM): quadratic problems*
+\n E. Ghadimi, A. Teixeira, I. Shames and M. Johansson
+\n ArXiv preprint, June 2013.
+\n *Abstract*. 
+
+{{<div align="justify">
+The alternating direction method of multipliers (ADMM) has emerged as a 
+powerful technique for large-scale structured optimization. Despite many recent results on the convergence properties of ADMM, 
+a quantitative characterization of the impact of the algorithm parameters on the convergence times of the method is still lacking. 
+In this paper we find the optimal algorithm parameters that minimize the convergence factor of the ADMM iterates in the context of l2-regularized minimization 
+and constrained quadratic programming. Numerical examples show that our parameter selection rules significantly outperform existing alternatives in the literature.
+ </div>}}
+{{<a href="http://arxiv.org/pdf/1306.2454.pdf"><img src="photos/pdf.ico" alt="pdf" height="40" width="40" /></a>}} 
+
+\n
+*Multi-step Gradient Methods for Networked Optimization*
+\n E. Ghadimi, I. Shames and M. Johansson
+\n IEEE Transactions on Signal Processing, 2013.
+\n *Abstract*. 
+{{<div align="justify">
+We develop multi-step gradient methods for network-constrained optimization of strongly convex functions with
+Lipschitz-continuous gradients. Given the topology of the underlying network and bounds on the Hessian of the objective
+function, we determine the algorithm parameters that guarantee the fastest convergence and characterize situations when
+signi?cant speed-ups can be obtained over the standard gradient method. Furthermore, we quantify how the performance
+of the gradient method and its accelerated counterpart are affected by uncertainty in the problem data, and conclude
+that in most cases our proposed method outperforms gradient descent. Finally, we apply the proposed technique to three
+engineering problems: resource allocation under network-wide budget constraints, distributed averaging, and Internet
+congestion control. In all cases, we demonstrate that our algorithm converges more rapidly than alternative algorithms
+reported in the literature.
+ </div>}}
+ 
+{{<a href="pub/tsp13.pdf"><img src="photos/pdf.ico" alt="pdf" height="40" width="40" /></a><a href="pub/Tsp13_matlab.rar"><img src="photos/Matlab_Logo.png" alt="matlab_code" height="40" width="40" /></a>}}
+
+
+
+== REAL-TIME SENSOR NETWORKING
+
+\n
+*Opportunistic Routing in Low Duty-Cycled Wireless Sensor Networks*
+\n E. Ghadimi, O. Landsiedel, P. Soldati, S. Duquennoy and M. Johansson
+\n Preprint, January 2013.
+\n *Abstract*. 
+{{<div align="justify">
+Opportunistic routing is widely known to have substantially better performance than unicast routing in wireless networks with
+lossy links. However, wireless sensor networks are heavily duty-cycled, i.e. they frequently enter sleep states to ensure long
+network life-time. This renders existing opportunistic routing schemes impractical, as they assume that nodes are always
+awake and can overhear other transmissions. In this paper we introduce ORW, a practical opportunistic routing scheme
+for wireless sensor networks. ORW uses a novel opportunistic routing metric, EDC, that reflects the expected number of
+duty-cycled wakeups that are required to successfully deliver a packet from source to destination. We devise distributed
+algorithms that find the EDC-optimal forwarding and demonstrate using analytical performance models and simulations
+that EDC-based opportunistic routing results in significantly reduced delay and improved energy efficiency compared to the
+traditional unicast routing. We compare the performance of the ORW protocol with other alternatives in both simulations
+and testbed-based experiments. Our results show that ORW reduces radio duty cycles on average by 50% (up to 90% on
+individual nodes) and delays by 30% to 90% when compared to the state of the art.
+ </div>}}
+
+ {{<a href="pub/oppTOSN.pdf"><img src="photos/pdf.ico" alt="pdf" height="40" width="40" /></a>}} 
+
+\n
+*Hidden Terminal-Aware Contention Resolution with an Optimal Distribution*
+\n E. Ghadimi, P. Soldati, F. \&Oumlsterlind, H. Zhang and M. Johansson
+\n In IEEE MASS, 2011.
+\n *Abstract*. 
+{{<div align="justify">
+Achieving low-power operation in wireless sensor
+networks with high data load or bursty traffic is challenging. The
+hidden terminal problem is aggravated with increased amounts
+of data in which traditional backoff-based contention resolution
+mechanisms fail or induce high latency and energy costs. We
+analyze and optimize Strawman, a receiver-initiated contention
+resolution mechanism that copes with hidden terminals. We
+propose new techniques to boost the performance of Strawman
+while keeping the resolution overhead small. We finally validate
+our improved mechanism via experiments.
+</div>}}
+
+{{<a href="pub/Mass11.pdf"><img src="photos/pdf.ico" alt="pdf" height="40" width="40" /></a>}} 
+
+
+== WIRELESS NETWORKS
+
+\n
+*An analytical model of delay in multi-hop wireless ad hoc networks*
+\n E. Ghadimi, A. Khonsari, A. Diyanat, M. Farmani, and N. Yazdani
+\n In Wireless networks, 2011.
+\n *Abstract*.
+{{<div align="justify">
+ Several analytical models of different wireless networking schemes such as wireless LANs and meshes have been reported in the literature. 
+ To the best of our knowledge, all these models fail to address the accurate end-to-end delay analysis of multi-hop wireless networks 
+ under unsaturated traffic condition considering the hidden and exposed terminal situation. In an effort to gain deep understanding of delay, 
+ this paper firstly proposes a new analytical model to predict accurate media access delay by obtaining its distribution function in a single wireless node.
+ The interesting point of having the media access delay distribution is its generality that not only enables us to derive the average delay which has been 
+ reported in almost most of the previous studies as a special case but also facilitates obtaining higher moments of delay such as variance and skewness to 
+ capture the QoS parameters such as jitters in recently popular multimedia applications. Secondly, using the obtained single node media access delay distribution, 
+ we extend our modeling approach to investigate the delay in multi-hop networks. 
+ Moreover, probabilities of collisions in both hidden and exposed terminal conditions have been calculated. 
+ The validity of the model is demonstrated by comparing results predicted by the analytical model against those obtained through simulation experiments.
+ </div>}}
+ 
+{{<a href="pub/Wireless11.pdf"><img src="photos/pdf.ico" alt="pdf" height="40" width="40" /></a>}} 
