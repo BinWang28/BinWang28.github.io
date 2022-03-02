@@ -27,26 +27,21 @@ Xiou Ge, Yun-Cheng Wang, *Bin Wang*, C.-C. Jay Kuo
 \n
 Chengwei Wei, *Bin Wang*, C.-C. Jay Kuo
 
-- \[[https://arxiv.org/abs/2101.02326 Graph Node Classification]\] \"GraphHop: An Enhanced Label Propagation Method for Node Classification\", Preprint, 2021.
-\n
-Tian Xie, *Bin Wang*, C.-C. Jay Kuo
-\n
-\[[https://github.com/TianXieUSC/GraphHop project]\]
-
-
-
-
-
-
-
 
 
 
 == Conferences
 
+- \[[https://arxiv.org/abs/xx Representation Learning]\] \"Just Rank: Rethinking Evaluation with Word and Sentence Similarities\", Annual Meeting of the Association for Computational Linguistics (ACL), 2022.
+\n
+*Bin Wang*, C.-C. Jay Kuo, Haizhou Li
+\n
+\[[https://github.com/BinWang28/xx project]\], \[[https://github.com/BinWang28/xx code]\]
+
+
 - \[[https://arxiv.org/abs/2009.09263 Commonsense KG]\] \"Inductive Learning on Commonsense Knowledge Graph Completion\", International Joint Conference on Neural Networks (IJCNN), 2021.
 \n
-*Bin Wang*, Guangtao Wang, Jing Huang, Jiaxuan You, Jure Leskovec C.-C. Jay Kuo
+*Bin Wang*, Guangtao Wang, Jing Huang, Jiaxuan You, Jure Leskovec, C.-C. Jay Kuo
 \n
 \[[https://github.com/BinWang28/InductivE project]\]
 
@@ -92,6 +87,13 @@ Fenxiao Chen, *Bin Wang*, C.-C. Jay Kuo
 Fenxiao Chen, *Bin Wang*, C.-C. Jay Kuo
 
 == Journals
+
+- \[[https://arxiv.org/abs/2101.02326 Graph Node Classification]\] \"GraphHop: An Enhanced Label Propagation Method for Node Classification\", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022.
+\n
+Tian Xie, *Bin Wang*, C.-C. Jay Kuo
+\n
+\[[https://github.com/TianXieUSC/GraphHop project]\]
+
 
 - \[[https://arxiv.org/abs/2110.15525 Anomaly Detection]\] \"PEDENet: Image Anomaly Localization via Patch Embedding and Density Estimation\", Pattern Recognition Letter, 2021.
 \n
