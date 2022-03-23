@@ -2,129 +2,180 @@
 
 
 == Publications
-here is a full list of my publications: \n
+Here is a full list of my publications: 
 \[[https://scholar.google.com/citations?hl=en&user=jUrRMv4AAAAJ&view_op=list_works&sortby=pubdate Google Scholar]\]
 \n
 
 
-
-
-
-
 == Preprints
 
-- \[[https://arxiv.org/abs/2112.09340 KG Completion]\] \"KGBoost: A Classification-based Knowledge Base Completion Method with Negative Sampling\", Preprint, 2021.
+- \[[https://arxiv.org/abs/2112.09340 KG Completion]\]
+\n
+\"KGBoost: A Classification-based Knowledge Base Completion Method with Negative Sampling\"
 \n
 Yun-Cheng Wang, Xiou Ge, *Bin Wang*, C.-C. Jay Kuo
+\n
+Preprint, 2021. (Journal Submission)
 
 
-- \[[https://arxiv.org/abs/2112.10067 KG Type Prediction]\] \"CORE: A Knowledge Graph Entity Type Prediction Method via Complex Space Regression and Embedding\", Preprint, 2021.
+- \[[https://arxiv.org/abs/2112.10067 KG Type Prediction]\]
+\n
+\"CORE: A Knowledge Graph Entity Type Prediction Method via Complex Space Regression and Embedding\"
 \n
 Xiou Ge, Yun-Cheng Wang, *Bin Wang*, C.-C. Jay Kuo
+\n
+Preprint, 2021. (Journal Submission)
 
 
-- \[[https://arxiv.org/abs/2110.13376 Static Word Embedding]\] \"Task-Specific Dependency-based Word Embedding Methods\", Preprint, 2021.
+- \[[https://arxiv.org/abs/2110.13376 Static Word Embedding]\]
+\n
+\"Task-Specific Dependency-based Word Embedding Methods\"
 \n
 Chengwei Wei, *Bin Wang*, C.-C. Jay Kuo
-
+\n
+Preprint, 2021. (Journal Submission)
 
 
 
 == Conferences
 
-- \[[https://arxiv.org/abs/xx Representation Learning]\] \"Just Rank: Rethinking Evaluation with Word and Sentence Similarities\", Annual Meeting of the Association for Computational Linguistics (ACL), 2022.
+- \[[https://arxiv.org/abs/2203.02679 Representation Learning]\], \[[https://github.com/BinWang28/EvalRank-Embedding-Evaluation code]\]
+\n 
+\"Just Rank: Rethinking Evaluation with Word and Sentence Similarities\"
 \n
 *Bin Wang*, C.-C. Jay Kuo, Haizhou Li
 \n
-\[[https://github.com/BinWang28/xx project]\], \[[https://github.com/BinWang28/xx code]\]
+Annual Meeting of the Association for Computational Linguistics (ACL), 2022.
 
 
-- \[[https://arxiv.org/abs/2009.09263 Commonsense KG]\] \"Inductive Learning on Commonsense Knowledge Graph Completion\", International Joint Conference on Neural Networks (IJCNN), 2021.
+- \[[https://arxiv.org/abs/2009.09263 Commonsense KG]\], \[[https://github.com/BinWang28/InductivE code]\]
+\n
+\"Inductive Learning on Commonsense Knowledge Graph Completion\"
 \n
 *Bin Wang*, Guangtao Wang, Jing Huang, Jiaxuan You, Jure Leskovec, C.-C. Jay Kuo
 \n
-\[[https://github.com/BinWang28/InductivE project]\]
+International Joint Conference on Neural Networks (IJCNN), 2021.
 
 
-- \[[https://arxiv.org/abs/2105.03797 Anomaly Detection]\] \"AnomalyHop: An SSL-based Image Anomaly Localization Method\", IEEE Visual Communications and Image Processing (VCIP), 2021.
+- \[[https://arxiv.org/abs/2105.03797 Anomaly Detection]\], \[[https://github.com/BinWang28/AnomalyHop code]\]
+\n
+\"AnomalyHop: An SSL-based Image Anomaly Localization Method\"
 \n
 Kaitai Zhang\*, *Bin Wang*\*, Wei Wang, Fahad Sohrab, Moncef Gabbouj, C.-C. Jay Kuo
 \n
-\[[https://github.com/BinWang28/AnomalyHop project]\]
+IEEE Visual Communications and Image Processing (VCIP), 2021.
 
 
-- \[[https://arxiv.org/abs/2104.05940 Texture Synthesis]\] \"Dynamic Texture Synthesis by Incorporating Long-range Spatial and Temporal Correlations\", International Symposium on Signals, Circuits and Systems (ISSCS), 2021.
+- \[[https://arxiv.org/abs/2104.05940 Texture Synthesis]\] 
+\n
+\"Dynamic Texture Synthesis by Incorporating Long-range Spatial and Temporal Correlations\"
 \n
 Kaitai Zhang, *Bin Wang*, Hong-Shuo Chen, Xuejing Lei, Ye Wang, C-C Jay Kuo
+\n
+International Symposium on Signals, Circuits and Systems (ISSCS), 2021.
 
 
-- \[[https://ieeexplore.ieee.org/document/9412169 Sentence Embedding]\] \"Efficient Sentence Embedding via Semantic Subspace Analysis\", International Conference on Pattern Recognition (ICPR), 2020.
+- \[[https://ieeexplore.ieee.org/document/9412169 Sentence Embedding]\], \[[https://github.com/BinWang28/Sentence-Embedding-S3E code]\]
+\n
+\"Efficient Sentence Embedding via Semantic Subspace Analysis\"
 \n
 *Bin Wang*, Fenxiao Chen, Yun-Cheng Wang, C.-C. Jay Kuo
 \n
-\[[https://github.com/BinWang28/Sentence-Embedding-S3E project]\]
+International Conference on Pattern Recognition (ICPR), 2020.
 
 
-- \[[https://ieeexplore.ieee.org/document/8784743 Static Word Embedding]\] \"Post-Processing of Word Representations via Variance Normalization and Dynamic Embedding\", International Conference on Multimedia & Expo (ICME), 2019.
+- \[[https://ieeexplore.ieee.org/document/8784743 Static Word Embedding]\], \[[https://github.com/BinWang28/PVN-Post-Processing-of-word-representation-via-variance-normalization code]\]
+\n 
+\"Post-Processing of Word Representations via Variance Normalization and Dynamic Embedding\"
 \n
 *Bin Wang*, Fenxiao Chen, Angela Wang, C.-C. Jay Kuo
 \n
-\[[https://github.com/BinWang28/PVN-Post-Processing-of-word-representation-via-variance-normalization project]\]
+International Conference on Multimedia & Expo (ICME), 2019.
 
 
-- \[[https://ieeexplore.ieee.org/abstract/document/8794958 Active Learning]\] \"K-Covers for Active Learning in Image Classification\", International Conference on Multimedia & Expo Workshops (ICMEW), 2019.
+- \[[https://ieeexplore.ieee.org/abstract/document/8794958 Active Learning]\] 
+\n
+\"K-Covers for Active Learning in Image Classification\"
 \n
 Yeji Shen, Yuhang Song, Hanhan Li, Shahab Kamali, *Bin Wang*, C.-C. Jay Kuo
+\n
+International Conference on Multimedia & Expo Workshops (ICMEW), 2019.
 
 
-- \[[https://ieeexplore.ieee.org/document/8682615 Graph Learning]\] \"Deepwalk-assisted Graph PCA (DGPCA) for Language Networks\", International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019.
+- \[[https://ieeexplore.ieee.org/document/8682615 Graph Learning]\]
+\n
+\"Deepwalk-assisted Graph PCA (DGPCA) for Language Networks\"
 \n
 Fenxiao Chen, *Bin Wang*, C.-C. Jay Kuo
+\n
+International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2019.
 
 
-- \[[https://ieeexplore.ieee.org/abstract/document/8639625 Graph-RNN]\] \"Graph-Based Deep-Tree Recursive Neural Network (DTRNN) for Text Classification\", IEEE Spoken Language Technology Workshop (SLT), 2018.
+- \[[https://ieeexplore.ieee.org/abstract/document/8639625 Graph-Recursive-NN]\] 
+\n
+\"Graph-Based Deep-Tree Recursive Neural Network (DTRNN) for Text Classification\"
 \n
 Fenxiao Chen, *Bin Wang*, C.-C. Jay Kuo
+\n
+IEEE Spoken Language Technology Workshop (SLT), 2018.
+
 
 == Journals
 
-- \[[https://arxiv.org/abs/2101.02326 Graph Node Classification]\] \"GraphHop: An Enhanced Label Propagation Method for Node Classification\", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022.
+- \[[https://arxiv.org/abs/2101.02326 Graph Learning]\], \[[https://ieeexplore.ieee.org/document/9737682 IEEE version]\], \[[https://github.com/TianXieUSC/GraphHop code]\]
+\n
+\"GraphHop: An Enhanced Label Propagation Method for Node Classification\"
 \n
 Tian Xie, *Bin Wang*, C.-C. Jay Kuo
 \n
-\[[https://github.com/TianXieUSC/GraphHop project]\]
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022.
 
 
-- \[[https://arxiv.org/abs/2110.15525 Anomaly Detection]\] \"PEDENet: Image Anomaly Localization via Patch Embedding and Density Estimation\", Pattern Recognition Letter, 2021.
+- \[[https://arxiv.org/abs/2110.15525 Anomaly Detection]\] 
+\n
+\"PEDENet: Image Anomaly Localization via Patch Embedding and Density Estimation\"
 \n
 Kaitai Zhang, *Bin Wang*, C.-C. Jay Kuo
 \n
+Pattern Recognition Letter, 2021.
 
 
-- \[[https://ieeexplore.ieee.org/abstract/document/9140343 Sentence Embedding]\] \"SBERT-WK: A Sentence Embedding Method by Dissecting BERT-based Word Models\", IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), 2020.
+- \[[https://ieeexplore.ieee.org/abstract/document/9140343 Sentence Embedding]\], \[[https://github.com/BinWang28/SBERT-WK-Sentence-Embedding code]\]
+\n
+\"SBERT-WK: A Sentence Embedding Method by Dissecting BERT-based Word Models\"
 \n
 *Bin Wang*, C.-C. Jay Kuo
 \n
-\[[https://github.com/BinWang28/SBERT-WK-Sentence-Embedding project]\]
+IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), 2020.
 
 
-- \[[https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/graph-representation-learning-a-survey/23B9870F91F7E6DA14784959A9BC9E7A Graph Embedding]\] \"Graph Representation Learning: A Survey\", APSIPA Transactions on Signal and Information Processing, 2020.
+- \[[https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/graph-representation-learning-a-survey/23B9870F91F7E6DA14784959A9BC9E7A Graph Embedding]\] 
+\n
+\"Graph Representation Learning: A Survey\"
 \n
 Fenxiao Chen, Yun-Cheng Wang, *Bin Wang*, C.-C. Jay Kuo
+\n
+APSIPA Transactions on Signal and Information Processing, 2020.
 
 
-- \[[https://www.researchgate.net/publication/338315523_Hand_gesture_recognition_and_motion_estimation_using_the_Kinect_sensor Hand Gesture]\] \"Hand gesture recognition and motion estimation using the Kinect sensor\", Mechatronic Systems and Control, 2020.
+- \[[https://www.researchgate.net/publication/338315523_Hand_gesture_recognition_and_motion_estimation_using_the_Kinect_sensor Hand Gesture]\], \[[https://www.youtube.com/watch?v=etjiZT4aRaQ video demo 1]\], \[[https://www.youtube.com/watch?v=qq9L5BcOeig video demo 2]\]
+\n
+\"Hand gesture recognition and motion estimation using the Kinect sensor\"
 \n
 *Bin Wang*, Yunze Li, Haoxiang Lang, Ying Wang
 \n
-\[[https://www.youtube.com/watch?v=etjiZT4aRaQ video demo 1]\] \[[https://www.youtube.com/watch?v=qq9L5BcOeig video demo 2]\]
+Mechatronic Systems and Control, 2020.
 
 
-- \[[https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/evaluating-word-embedding-models-methods-and-experimental-results/EDF43F837150B94E71DBB36B28B85E79 Static Word Embedding]\] \"Evaluating Word Embedding Models: Methods and Experimental Results\", APSIPA Transactions on Signal and Information Processing, 2019.
+- \[[https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/evaluating-word-embedding-models-methods-and-experimental-results/EDF43F837150B94E71DBB36B28B85E79 Static Word Embedding]\] 
+\n
+\"Evaluating Word Embedding Models: Methods and Experimental Results\"
 \n
 *Bin Wang*\*, Angela Wang\*, Fenxiao Chen, Yun-Cheng Wang, C.-C. Jay Kuo
+\n
+APSIPA Transactions on Signal and Information Processing, 2019.
 
 
 == Thesis
 
-. Bin Wang: \"Word, Sentence and Knowledge Graph Embedding Techniques: Theory and Performance Evaluation\", PHD thesis, University of Southern California, 2021.
+. Bin Wang. \"Word, Sentence and Knowledge Graph Embedding Techniques: Theory and Performance Evaluation\", PHD thesis, University of Southern California, 2021.

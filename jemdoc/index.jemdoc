@@ -29,13 +29,14 @@ My bachelor's degree is obtained from University of Electronic Science and Techn
 
 == News
 
-- *Feb. 24, 2022*: One paper accepted to ACL 2022, Main Conference.
+- *Mar. 18, 2022*: GraphHop paper is accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+- *Feb. 24, 2022*: One paper accepted to ACL 2022, Main Conference. Please check our [https://arxiv.org/abs/2203.02679 paper] and [https://github.com/BinWang28/EvalRank-Embedding-Evaluation code].
 
 == Research
 My research interests include 
-- Representation Learning for Words, Sentences and (Knowledge) Graphs
-- Dialogue Summarization
-- Information Extraction in Dialogues
+- Representation Learning for Word, Sentence and (Knowledge) Graph.
+- Dialogue Summarization.
+- Information Extraction for Dialogues.
 
 [research.html Find out more].
 
@@ -45,8 +46,9 @@ My research interests include
     -- Some previous published papers have already attracted significant number of citations: [http://goo.gl/xWHRsf http://goo.gl/xWHRsf]
 
 == Selected Publications 
-. Bin Wang, Guangtao Wang, Jing Huang, Jiaxuan You, Jure Leskovec, and C-C. Jay Kuo. "Inductive learning on commonsense knowledge graph completion." IEEE International Joint Conference on Neural Networks (IJCNN), 2021. \[[https://arxiv.org/abs/2009.09263 pdf]\]
-. Bin Wang, and C.-C. Jay Kuo. "SBERT-WK: A sentence embedding method by dissecting bert-based word models." IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020. \[[https://ieeexplore.ieee.org/document/9140343 pdf]\]
-. Bin Wang\*, Angela Wang\*, Fenxiao Chen, Yuncheng Wang, and C.-C. Jay Kuo. "Evaluating word embedding models: methods and experimental results." APSIPA transactions on signal and information processing, 2019. \[[https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/evaluating-word-embedding-models-methods-and-experimental-results/EDF43F837150B94E71DBB36B28B85E79 pdf]\]
+. Bin Wang, C.-C. Jay Kuo, and Haizhou Li. "Just Rank: Rethinking Evaluation with Word and Sentence Similarities." ACL, 2022. \[[https://arxiv.org/abs/2203.02679 paper]\], \[[https://github.com/BinWang28/EvalRank-Embedding-Evaluation code]\]
+. Bin Wang, Guangtao Wang, Jing Huang, Jiaxuan You, Jure Leskovec, and C.-C. Jay Kuo. "Inductive learning on commonsense knowledge graph completion." IEEE International Joint Conference on Neural Networks (IJCNN), 2021. \[[https://arxiv.org/abs/2009.09263 paper]\], \[[https://github.com/BinWang28/InductivE code]\]
+. Bin Wang, and C.-C. Jay Kuo. "SBERT-WK: A sentence embedding method by dissecting bert-based word models." IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020. \[[https://ieeexplore.ieee.org/document/9140343 paper]\], \[[https://github.com/BinWang28/SBERT-WK-Sentence-Embedding code]\]
+. Bin Wang\*, Angela Wang\*, Fenxiao Chen, Yuncheng Wang, and C.-C. Jay Kuo. "Evaluating word embedding models: methods and experimental results." APSIPA transactions on signal and information processing, 2019. \[[https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/evaluating-word-embedding-models-methods-and-experimental-results/EDF43F837150B94E71DBB36B28B85E79 paper]\], \[[https://github.com/BinWang28/Word-Embedding-Eval code]\]
 
 [publications.html Full list of publications].
