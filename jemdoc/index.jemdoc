@@ -3,9 +3,9 @@
 
 ~~~
 {}{img_left}{data/profile.png}{alt text}{210}{210}{https://binwang28.github.io/}
-My name in Chinese: 王斌
-\n\n
-Postdoctoral Research Fellow, PhD,
+Name in Chinese: 王斌
+\n
+Research Fellow, PhD,
 \n 
 [https://cde.nus.edu.sg/ece/ Electrical and Computer Engineering],
 \n
@@ -23,22 +23,23 @@ Email: /bwang28c/ \[@\] gmail \[DOT\] com
 ~~~
 
 == About me
-I am currently a Postdoctoral Research Fellow at National University of Singapore ([https://www.nus.edu.sg/ NUS]) - Human Language Technology ([https://cde.nus.edu.sg/ece/hlt/ HLT]) Lab working with Prof. [https://colips.org/~eleliha/ Haizhou Li]. 
+I am currently a Research Fellow at National University of Singapore ([https://www.nus.edu.sg/ NUS]) - Human Language Technology ([https://cde.nus.edu.sg/ece/hlt/ HLT]) Lab working with Prof. [https://colips.org/~eleliha/ Haizhou Li]. 
 \n
-Before that, I received both Ph.D. and M.S. degrees from University of Southern California ([https://www.usc.edu/ USC]) supervised by Prof. [https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh C.-C. Jay Kuo] in 2021 and 2019, respectively.
+Before that, I received my Ph.D. degree from University of Southern California ([https://www.usc.edu/ USC]) supervised by Prof. [https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh C.-C. Jay Kuo] in May, 2021.
 \n
 My bachelor's degree is obtained from University of Electronic Science and Technology of China ([https://en.uestc.edu.cn/ UESTC]) in 2017.
 
 == News
 
+- *Jun. 20, 2022*: SynWMD is now on [https://arxiv.org/abs/2206.10029 ArXiv]. An improved Word Mover's Distance algorithm by considering sentences' syntactic structure is presented.
 - *Mar. 18, 2022*: GraphHop paper is accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
-- *Feb. 24, 2022*: One paper accepted to ACL 2022, Main Conference. Please check our [https://arxiv.org/abs/2203.02679 paper] and [https://github.com/BinWang28/EvalRank-Embedding-Evaluation code].
+- *Feb. 24, 2022*: One paper accepted to ACL 2022, Main Conference as oral presentation. Please check our [https://arxiv.org/abs/2203.02679 paper] and [https://github.com/BinWang28/EvalRank-Embedding-Evaluation code].
 
 == Research
 My research interests include 
-- Representation Learning for Word, Sentence and (Knowledge) Graph.
-- Dialogue Summarization.
-- Information Extraction for Dialogues.
+- Representation Learning for Words, Sentences and (Knowledge) Graphs
+- Model and Evaluation on Dialogue Summarization
+- Factual Consistency in Generation
 
 [research.html Find out more].
 
