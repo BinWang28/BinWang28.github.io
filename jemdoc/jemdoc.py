@@ -252,7 +252,7 @@ def standardconf():
   </div>
   
   [lastupdated]
-  Page generated on |.
+  Page generated on |.  I am personally responsible for any opinion on this page and other social media platforms.
 
   [sourcelink]
   (<a href="|">source</a>)
