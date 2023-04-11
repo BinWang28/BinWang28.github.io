@@ -2,7 +2,7 @@ Bin. Wang
     Home                [index.html]
     Biography           [biography.html]
     Activities			[activities.html]
-    CV(outd.)           [data/cv.pdf]
+    CV                  [data/cv.pdf]
 
 Research
     Research			[research.html]
@@ -12,6 +12,7 @@ Teaching
     Teaching			[teaching.html]
 
 Website
+   中文版                [index_chinese.html]
    Statistics           [statistics.html]
    template   		    [https://github.com/jem/jemdoc]
    
