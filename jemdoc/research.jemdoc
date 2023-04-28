@@ -1,4 +1,6 @@
 # jemdoc: menu{MENU}{research.html},analytics{UA-144973743-1}
+==Research
+
 
 #{{<div align="center">
 #<img src="data/word_cloud.jpg" alt="research" height="1" width="1">
@@ -16,7 +18,7 @@ This page is an attempt to present our work in distinct research areas, and to p
 - Dialogue Summarization
     -- Dialogue summarization aims to provide condense information from dialogue-type of text data. 
     -- {{
-            <iframe width="900" height="450" 
+            <iframe width="600" height="300" 
             src="https://www.youtube.com/embed/sHjotbSP07k" 
             title="dialogue_summarization_24-04-2023" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> 
@@ -44,7 +46,7 @@ This page is an attempt to present our work in distinct research areas, and to p
 - Hand gesture recognition for SLAM-enabled robot control (Undergraduate intern project in Ontario Tech University, Canada)
     -- With RGB-D camera, perform hand gesture recognition and robot auto-navigation. 
     -- {{
-            <iframe width="900" height="450" 
+            <iframe width="600" height="300" 
             src="https://www.youtube.com/embed/qq9L5BcOeig" 
             title="turtlebox_movement by hand gesture" 
             frameborder="0" 
@@ -52,7 +54,7 @@ This page is an attempt to present our work in distinct research areas, and to p
             </iframe>
             }}
     -- {{ 
-            <iframe width="900" height="450" 
+            <iframe width="600" height="300" 
             src="https://www.youtube.com/embed/etjiZT4aRaQ" 
             title="Hand gester speed estimation (spatial speed)" 
             frameborder="0" 
