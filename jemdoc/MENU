@@ -1,5 +1,5 @@
 Bin. Wang
-    Home                [./]
+    Home                [index.html]
     Biography           [biography.html]
     Activities			[activities.html]
     CV                  [data/cv.pdf]
@@ -12,7 +12,7 @@ Teaching
     Teaching			[teaching.html]
 
 Website
-   中文版                [index_chinese.html]
+   中文                  [index_chinese.html]
    Statistics           [statistics.html]
    template   		    [https://github.com/jem/jemdoc]
    

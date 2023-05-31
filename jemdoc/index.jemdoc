@@ -13,7 +13,7 @@ Research Scientist, PhD,
 \n
 Address: 1 Fusionopolis Way, \#20-10, Connexis North Tower, Singapore 138632
 \n
-Tel: \+65 8439 0347
+Tel: \+65 6408 2789 (office)
 \n
 Email: /bwang28c/ \[@\] gmail.com
 \n
@@ -36,6 +36,8 @@ I received my Ph.D. degree from University of Southern California ([https://www.
 My bachelor's degree is obtained from University of Electronic Science and Technology of China ([https://en.uestc.edu.cn/ UESTC]) in 2017.
 
 == News
+- *May, 2023*: We have three papers going to present at ACL 2023. 2 in main conference, 1 in workshop. 
+    -- [https://arxiv.org/abs/2208.09137 Efficient Knowledge Graph Prediction], [https://arxiv.org/abs/2207.05324 Compound Knowledge Graph Embedding], [https://arxiv.org/abs/2212.08802 Relational Sentence Embedding]
 - *March, 2023*: I will be serving as the Publication Chair for [https://2023.emnlp.org/ EMNLP 2023], hosting in Singapore!
 - *Feb. 21, 2023*: Relational Sentence Embedding is coming! Checkout our [https://arxiv.org/abs/2212.08802 paper] and [https://github.com/BinWang28/RSE code].
 - *Nov. 08, 2022*: Our paper on word embedding won the [http://www.apsipa.org/awards.htm APSIPA Sadaoki Furui Prize Paper Award].
@@ -44,9 +46,10 @@ My bachelor's degree is obtained from University of Electronic Science and Techn
 == Research
 My research focus including but not limited to:
 - Natural Language Processing
-- Representation Learning for Words, Sentences and (Knowledge) Graphs
 - Conversatioal Systems
 - Generation AI: Summarization, Factuality
+- Representation Learning for Words, Sentences and (Knowledge) Graphs
+
 
 [research.html Find out more].
 
