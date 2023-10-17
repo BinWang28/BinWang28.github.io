@@ -23,23 +23,25 @@ Email: /bwang28c/ \[@\] gmail.com
 \[[https://twitter.com/BinWang_Eng Twitter]]
 \n\n
 ``/Produce original research that expands the boundaries of knowledge./''
+\n
+``/I do interesting research (to me, as least) on Natural Language Processing and Conversational Systems./''
 ~~~
 
 == About me
-
-I am currently a research scientist at Aural and Intelligence Department, I2R, A\*STAR. 
+I am a research scientist at Aural and Intelligence Department, I2R, A\*STAR. 
 \n
-Before joing A*STAR, I was a research fellow at National University of Singapore ([https://www.nus.edu.sg/ NUS]) - Human Language Technology ([https://cde.nus.edu.sg/ece/hlt/ HLT]) Lab working with Prof. [https://colips.org/~eleliha/ Haizhou Li]. 
+Before joing A*STAR, I was a research fellow at National University of Singapore ([https://www.nus.edu.sg/ NUS]) working with Prof. [https://colips.org/~eleliha/ Haizhou Li] from 2021-2023. 
 \n
-I received my Ph.D. degree from University of Southern California ([https://www.usc.edu/ USC]) supervised by Prof. [https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh C.-C. Jay Kuo] in May, 2021.
+I received my Ph.D. degree from University of Southern California ([https://www.usc.edu/ USC]) supervised by Prof. [https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh C.-C. Jay Kuo] in 2021.
 \n
 My bachelor's degree is obtained from University of Electronic Science and Technology of China ([https://en.uestc.edu.cn/ UESTC]) in 2017.
 
 == News
+
+- *Oct, 2023*: One paper on Instructive Dialogue Summarization is accepted to EMNLP 2023.
 - *May, 2023*: We have three papers going to present at ACL 2023. 2 in main conference, 1 in workshop. 
     -- [https://arxiv.org/abs/2208.09137 Efficient Knowledge Graph Prediction], [https://arxiv.org/abs/2207.05324 Compound Knowledge Graph Embedding], [https://arxiv.org/abs/2212.08802 Relational Sentence Embedding]
 - *March, 2023*: I will be serving as the Publication Chair for [https://2023.emnlp.org/ EMNLP 2023], hosting in Singapore!
-- *Feb. 21, 2023*: Relational Sentence Embedding is coming! Checkout our [https://arxiv.org/abs/2212.08802 paper] and [https://github.com/BinWang28/RSE code].
 - *Nov. 08, 2022*: Our paper on word embedding won the [http://www.apsipa.org/awards.htm APSIPA Sadaoki Furui Prize Paper Award].
 - *Oct. 20, 2022*: Two papers accepted to EMNLP 2022.
 
@@ -52,10 +54,6 @@ My research focus including but not limited to:
 
 [research.html Find out more].
 
-== Call for Papers
-- I am serving a member of Editorial Board for journal: [https://www.nowpublishers.com/SIP APSIPA Transactions on Signal and Information Processing] from year 2022 to 2025.
-    -- Welcome to submit your manuscript to ATSIP.
-    -- Some previous published papers have already attracted significant number of citations: [http://goo.gl/xWHRsf http://goo.gl/xWHRsf]
 
 == Selected Publications 
 . Bin Wang, Chen Zhang, Yan Zhang, Yiming Chen and Haizhou Li. "Analyzing and Evaluating Faithfulness in Dialogue Summarization." EMNLP, 2022. \[[https://arxiv.org/abs/2210.11777 paper]\], \[[https://github.com/BinWang28/FacEval code]\]
