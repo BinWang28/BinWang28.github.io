@@ -169,13 +169,12 @@ def standardconf():
   
   [analytics]
   <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144973743-1"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-GQSE2H4QXE"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'G-GQSE2H4QXE');
-    gtag('config', 'UA-144973743-1');
   </script>
 
   
