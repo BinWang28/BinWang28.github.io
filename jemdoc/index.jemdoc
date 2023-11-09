@@ -28,7 +28,7 @@ Email: /bwang28c/ \[@\] gmail.com
 ~~~
 
 == About me
-I am a research scientist at Aural and Intelligence Department, I2R, A\*STAR. 
+I am a research scientist at Aural \& Language Intelligence Department, I2R, A\*STAR. 
 \n
 Before joing A*STAR, I was a research fellow at National University of Singapore ([https://www.nus.edu.sg/ NUS]) working with Prof. [https://colips.org/~eleliha/ Haizhou Li] from 2021-2023. 
 \n
@@ -38,10 +38,14 @@ My bachelor's degree is obtained from University of Electronic Science and Techn
 
 == News
 
-- *Oct, 2023*: One paper on Instructive Dialogue Summarization is accepted to EMNLP 2023. [https://arxiv.org/abs/2310.10981 \[Paper\]] [https://github.com/BinWang28/InstructDS \[Project\]]
-- *May, 2023*: We have three papers going to present at ACL 2023. 2 in main conference, 1 in workshop. 1) [https://arxiv.org/abs/2208.09137 Efficient Knowledge Graph Prediction], 2) [https://arxiv.org/abs/2207.05324 Compound Knowledge Graph Embedding], 3) [https://arxiv.org/abs/2212.08802 Relational Sentence Embedding]
+- *Nov, 2023*: SeaEval Evaluation is live for multilingual foundation model evaluation with consideration on cross-lingual consistency and cultural understanding. New datasets as well! 
+  -- [https://arxiv.org/abs/2309.04766 \[Paper\]], [https://binwang.xyz/SeaEval/ \[Website\]], [https://huggingface.co/datasets/binwang/SeaEval_v1.0 \[Datasets\]] and [https://github.com/BinWang28/SeaEval \[Evaluation Scripts\]].
+- *Oct, 2023*: One paper on Instructive Dialogue Summarization is accepted to EMNLP 2023. 
+  -- [https://arxiv.org/abs/2310.10981 \[Paper\]], [https://github.com/BinWang28/InstructDS \[Project\]].
+- *May, 2023*: We have three papers going to present at ACL 2023. 2 in main conference, 1 in workshop.
+  -- 1) [https://arxiv.org/abs/2208.09137 Efficient Knowledge Graph Prediction], 2) [https://arxiv.org/abs/2207.05324 Compound Knowledge Graph Embedding], 3) [https://arxiv.org/abs/2212.08802 Relational Sentence Embedding].
 - *March, 2023*: I will be serving as the Publication Chair for [https://2023.emnlp.org/ EMNLP 2023], hosting in Singapore!
-- *Nov. 08, 2022*: Our paper on word embedding won the [http://www.apsipa.org/awards.htm APSIPA Sadaoki Furui Prize Paper Award].
+- *Nov. 08, 2022*: Our paper on word embedding won the [http://www.apsipa.org/awards.htm APSIPA Sadaoki Furui Prize Paper Award]. It is one of my earliest work in my PhD study. Reaching to 300 citations now!
 - *Oct. 20, 2022*: Two papers accepted to EMNLP 2022.
 
 == Research
