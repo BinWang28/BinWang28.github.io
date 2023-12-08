@@ -38,9 +38,9 @@ My bachelor's degree is obtained from University of Electronic Science and Techn
 
 == News
 
-- *Nov, 2023*: SeaEval Evaluation is live for multilingual foundation model evaluation with consideration on cross-lingual consistency and cultural understanding. New datasets as well! 
-  -- [https://arxiv.org/abs/2309.04766 \[Paper\]], [https://seaeval.github.io/ \[Website\]], [https://huggingface.co/datasets/binwang/SeaEval_v1.0 \[Datasets\]] and [https://github.com/SeaEval/SeaEval \[Evaluation Scripts\]].
-- *Oct, 2023*: One paper on Instructive Dialogue Summarization is accepted to EMNLP 2023. 
+- *Nov, 2023*: SeaEval Evaluation is live for multilingual foundation model evaluation with consideration on cross-lingual consistency and cultural understanding. New datasets as well.
+  -- [https://arxiv.org/abs/2309.04766 \[Paper\]], [https://seaeval.github.io/ \[Website\]], [https://huggingface.co/datasets/SeaEval/SeaEval_v1.0 \[Datasets\]] and [https://github.com/SeaEval/SeaEval \[Evaluation Scripts\]].
+- *Oct, 2023*: Our paper on Instructive Dialogue Summarization is accepted to EMNLP 2023. 
   -- [https://arxiv.org/abs/2310.10981 \[Paper\]], [https://github.com/BinWang28/InstructDS \[Project\]].
 - *May, 2023*: We have three papers going to present at ACL 2023. 2 in main conference, 1 in workshop.
   -- 1) [https://arxiv.org/abs/2208.09137 Efficient Knowledge Graph Prediction], 2) [https://arxiv.org/abs/2207.05324 Compound Knowledge Graph Embedding], 3) [https://arxiv.org/abs/2212.08802 Relational Sentence Embedding].
