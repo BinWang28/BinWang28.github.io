@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{team.html}
+= Team
+This page contains most research attachments.
+
+== Research Attachment
+~~~
+{}{img_left}{./data/pic01.png}{}{280px}{}{}
+
+=== USC - MCL
+[https://www.linkedin.com/in/angela-wang-87a684140/details/education/ Angela Wang], University of California, Berkeley, USA, 2018-06 - 2018-09
+
+=== NUS - HLT
+[https://english.dhu.edu.cn/ Yan Xiao], Ph.D., Donghua University, China, 2023-02 - 2024-02
+
+=== I2R, A*STAR
+[https://www.linkedin.com/in/anhn2/ Anh Thuc Nguyen], Research Intern, UNC Chapel Hill, USA, 2024-01 - 2024-05.
+\n
+[https://www.linkedin.com/in/ajsanjoaquin/ Ayrton San Joaquin], Research Assistant, DesCarte@CREATE, Singapore, 2023-09 - 2024-08.
+\n
+[https://www.linkedin.com/in/ziyi-xu-joyce/ Ziyi Xu], Research Intern, NUS, Singapore, 2024-07 - 2024-12
+\n
+[https://scholar.google.com/citations?user=0N9uABwAAAAJ&hl=zh-CN Yanchao Li], Ph.D. Student, NTU, Singapore, 2024-01 - 2028-01
+\n
+[https://www.linkedin.com/in/ireallylikerubberduckieshowcouldyoutell/ Jayden Lum], Ngee Ann Polytechnic, Singapore, 2025-02 - 2025-04
+\n
+[https://www.ntu.edu.sg/ Yiming Gao], NTU, Singapore, 2025-01 - 2025-05
+\n
+[https://www.linkedin.com/in/phamthebinhminh/?originalSubdomain=sg Pham The Binh Minh], NTU, Singapore, 2025-01 - 2025-05
+~~~
+
+== Project Team: NMLP - National Multimodal Large Language Models Programme
+~~~
+{}{img_left}{./data/pic01.png}{}{280px}{}{}
+=== MERaLion - AudioLLM (Data, Train, Evaluation)
+~~~
