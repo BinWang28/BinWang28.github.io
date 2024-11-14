@@ -23,19 +23,6 @@ Email: /bwang28c/ \[@\] gmail.com \& wang_bin / \[@\] i2r.a-star.edu.sg
 ~~~
 
 
-== About Me
-I am currently a research scientist at Aural \& Language Intelligence Department, I2R, A\*STAR. Before joing A*STAR, I was a research fellow at National University of Singapore ([https://www.nus.edu.sg/ NUS]) working with Prof. [https://colips.org/~eleliha/ Haizhou Li] from 2021-2023. I received my Ph.D. degree from University of Southern California ([https://www.usc.edu/ USC]) supervised by Prof. [https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh C.-C. Jay Kuo] in 2021. My bachelor's degree is obtained from University of Electronic Science and Technology of China ([https://en.uestc.edu.cn/ UESTC]) in 2017.
-\n
-In my life, I started from signal processing, then moved to machine learning and natural language processing. I am interested in the wide application and technologies behind multimodal AI. I enjoy discussion with brillient minds and learn new skills.
-
-
-== Highlights
-- 2024-2026~National LLM Project [https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/sg-to-develop-southeast-asias-first-llm-ecosystem Press Coverage]
-- 2024~AudioBench [https://arxiv.org/abs/2406.16020 for AudioLLM Evaluation]
-- 2024~NAACL [https://seaeval.github.io/ SeaEval for Multilingual Evaluation]
-- 2023~EMNLP [https://github.com/BinWang28/InstructDS Instructive Dialogue Summarization]
-
-
 == Opportunities
 
 ~~~
@@ -55,6 +42,20 @@ We are actively looking for candidates working on Multimodal LLMs (text, audio, 
 - Long-term Positions
 -- Research Engineer / Scientist (Both engineering and research background are preferred.)
 ~~~
+
+
+== About Me
+I am currently a research scientist at Aural \& Language Intelligence Department, I2R, A\*STAR. Before joing A*STAR, I was a research fellow at National University of Singapore ([https://www.nus.edu.sg/ NUS]) working with Prof. [https://colips.org/~eleliha/ Haizhou Li] from 2021-2023. I received my Ph.D. degree from University of Southern California ([https://www.usc.edu/ USC]) supervised by Prof. [https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh C.-C. Jay Kuo] in 2021. My bachelor's degree is obtained from University of Electronic Science and Technology of China ([https://en.uestc.edu.cn/ UESTC]) in 2017.
+\n
+In my life, I started from signal processing, then moved to machine learning and natural language processing. I am interested in the wide application and technologies behind multimodal AI. I enjoy discussion with brillient minds and learn new skills.
+
+
+== Highlights
+- 2024-2026~National LLM Project [https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/sg-to-develop-southeast-asias-first-llm-ecosystem Press Coverage]
+- 2024~AudioBench [https://arxiv.org/abs/2406.16020 for AudioLLM Evaluation]
+- 2024~NAACL [https://seaeval.github.io/ SeaEval for Multilingual Evaluation]
+- 2023~EMNLP [https://github.com/BinWang28/InstructDS Instructive Dialogue Summarization]
+
 
 == Research
 My research focus including but not limited to: 
