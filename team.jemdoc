@@ -2,32 +2,65 @@
 = Team
 This page contains most research attachments.
 
-== Research Attachment
+== Research Attachments
 ~~~
 {}{img_left}{./data/team-cartoon-1.png}{}{280px}{}{}
 
-=== USC - MCL
-[https://www.linkedin.com/in/angela-wang-87a684140/details/education/ Angela Wang], University of California, Berkeley, USA, 2018-06 - 2018-09
+=== At USC
+- [https://www.linkedin.com/in/angela-wang-87a684140/details/education/ Angela Wang], Research Intern
+-- 2018-06 - 2018-09
+-- Undergraduate student, University of California, Berkeley, USA, 
+-- Research on word representation learning and evaluation theory. 
+-- Publication: [https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EDF43F837150B94E71DBB36B28B85E79/S204877031900012Xa.pdf/div-class-title-evaluating-word-embedding-models-methods-and-experimental-results-div.pdf APSIPA TSIP]
 
-=== NUS - HLT
-[https://english.dhu.edu.cn/ Yan Xiao], Ph.D., Donghua University, China, 2023-02 - 2024-02
+=== At NUS
+- [https://english.dhu.edu.cn/ Yan Xiao], Ph.D., Donghua University, China, 
+-- 2023-02 - 2024-02
+-- Research on relation extraction from text
+-- Publication: [https://ieeexplore.ieee.org/document/10721241 IEEE TNNLS]
 
-=== I2R, A*STAR
-[https://www.linkedin.com/in/anhn2/ Anh Thuc Nguyen], Research Intern, UNC Chapel Hill, USA, 2024-01 - 2024-05.
-\n
-[https://www.linkedin.com/in/ajsanjoaquin/ Ayrton San Joaquin], Research Assistant, DesCarte@CREATE, Singapore, 2023-09 - 2024-08.
-\n
-[https://www.linkedin.com/in/ziyi-xu-joyce/ Ziyi Xu], Research Intern, NUS, Singapore, 2024-07 - 2024-12
-\n
-[https://scholar.google.com/citations?user=0N9uABwAAAAJ&hl=zh-CN Yanchao Li], Ph.D. Student, NTU, Singapore, 2024-01 - 2028-01
-\n
-[https://www.linkedin.com/in/ireallylikerubberduckieshowcouldyoutell/ Jayden Lum], A\*STAR Scholar, Ngee Ann Polytechnic, Singapore, 2025-02 - 2025-04
-\n
-[https://www.linkedin.com/in/xue-cong-tey-7a9a89273/ Tey Xue Cong], A\*STAR Scholar, Ngee Ann Polytechnic, Singapore, 2025-02 - 2025-04
-\n
-[https://www.ntu.edu.sg/ Yiming Gao], NTU, Singapore, 2025-01 - 2025-05
-\n
-[https://www.linkedin.com/in/phamthebinhminh/?originalSubdomain=sg Pham The Binh Minh], NTU, Singapore, 2025-01 - 2025-05
+=== At I2R, A*STAR
+- [https://www.linkedin.com/in/anhn2/ Anh Thuc Nguyen], Research Intern
+-- 2024-01 - 2024-05
+-- Undergradute student from UNC Chapel Hill, USA
+-- Work on question generation for MERaLiON project and evaluation dataset creation.
+
+- [https://www.linkedin.com/in/ajsanjoaquin/ Ayrton San Joaquin], Research Associate
+-- 2023-09 - 2024-08
+-- DesCarte@CREATE, Singapore
+-- Research on efficient training on large language models through gradient esitmation. 
+-- Publication: [https://aclanthology.org/2024.findings-emnlp.604/ EMNLP 2024 Findings].
+
+- [https://www.linkedin.com/in/ziyi-xu-joyce/ Ziyi Xu], Research Intern. Main Supervisor: Sun Shuo
+-- 2024-07 - 2024-12
+-- Master student, NUS, Singapore
+-- Work on multimodal alignment data collection and filtering.
+
+- [https://scholar.google.com/citations?user=0N9uABwAAAAJ&hl=zh-CN Yanchao Li], ACIS PhD Scholar. Main Supervisor: Nancy F. Chen
+-- 2024-01 - 2028-01
+-- Ph.D. Student, NTU, Singapore
+-- Research on visual understanding
+
+- [https://www.linkedin.com/in/ireallylikerubberduckieshowcouldyoutell/ Jayden Lum], A\*STAR Scholar Intern. Main Supervisor: Xunlong Zou
+-- 2025-02 - 2025-04
+-- Ngee Ann Polytechnic, Singapore
+-- Work on data collection and processing
+
+- [https://www.linkedin.com/in/xue-cong-tey-7a9a89273/ Tey Xue Cong], A\*STAR Scholar Intern. Main Supervisor: Xunlong Zou
+-- 2025-02 - 2025-04
+-- Ngee Ann Polytechnic, Singapore
+-- Work on data collection and processing
+
+- [https://www.ntu.edu.sg/ Yiming Gao], Research Intern
+-- 2025-01 - 2025-05
+-- Undergraduate, NTU, Singapore
+-- Research on multimodal large language model
+
+- [https://www.linkedin.com/in/phamthebinhminh/?originalSubdomain=sg Pham The Binh Minh], Research Intern
+-- 2025-01 - 2025-05
+-- Undergraduate, NTU, Singapore,
+-- Research on multimodal large language model
+
 ~~~
 
 == Project Team: NMLP - National Multimodal Large Language Models Programme
