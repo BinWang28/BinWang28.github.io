@@ -1,6 +1,7 @@
 # jemdoc: menu{MENU}{index.html}, analytics{|}
 
 == Bin Wang
+
 ~~~
 {}{img_left}{data/profile.png}{alt text}{210}{210}{https://binwang.xyz/}
 Scientist
@@ -9,7 +10,9 @@ Institute for Infocomm Research [https://www.a-star.edu.sg/i2r (I$^2$R)], [https
 \n
 Address: 1 Fusionopolis Way, Level 12, Connexis South Tower, Singapore 138632
 \n
-Email: /bwang28c/ \[@\] gmail.com \& wang_bin / \[@\] i2r.a-star.edu.sg
+Personal Email: /bwang28c/ \[@\] gmail.com 
+\n
+Work Email: wang_bin / \[@\] i2r.a-star.edu.sg
 \n
 \[[https://scholar.google.com/citations?user=jUrRMv4AAAAJ&hl=en Google Scholar]]~~~
 \[[https://github.com/BinWang28 GitHub]]~~~
@@ -19,10 +22,11 @@ Email: /bwang28c/ \[@\] gmail.com \& wang_bin / \[@\] i2r.a-star.edu.sg
 ~~~
 
 == News
+- 2025.01~Our AudioBench work is officially accepted to NAACL 2025 Main Conference! [https://huggingface.co/spaces/MERaLiON/AudioBench-Leaderboard Leaderboard] and [https://github.com/AudioLLMs/AudioBench Code].
 - 2024.12~We released [https://huggingface.co/MERaLiON MERaLiON models], the first audio-based large language model designed specifically for Singlish and other related tasks!
-- 2024-2026~National LLM Project [https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/sg-to-develop-southeast-asias-first-llm-ecosystem Press Coverage]
-- 2024~AudioBench [https://arxiv.org/abs/2406.16020 for AudioLLM Evaluation]
-- 2024~NAACL [https://seaeval.github.io/ SeaEval for Multilingual Evaluation]
+- 2024-2026~Our team is working on National LLM Project [https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/sg-to-develop-southeast-asias-first-llm-ecosystem Press Coverage].
+- 2024~AudioBench is released with leaderboard and evaluation toolkit - [https://arxiv.org/abs/2406.16020 AudioLLM Evaluation].
+- 2024~NAACL [https://seaeval.github.io/ SeaEval for Multilingual Evaluation].
 
 == About Me
 I am a scientist at Aural \& Language Intelligence Department, I2R, A\*STAR. Before joing that, I was a research fellow at National University of Singapore ([https://www.nus.edu.sg/ NUS]) working with Prof. [https://colips.org/~eleliha/ Haizhou Li] from 2021-2023. I received my Ph.D. degree from University of Southern California ([https://www.usc.edu/ USC]) supervised by Prof. [https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh C.-C. Jay Kuo] in 2021. My bachelor's degree is obtained from University of Electronic Science and Technology of China ([https://en.uestc.edu.cn/ UESTC]) in 2017.
@@ -66,7 +70,7 @@ We are actively looking for candidates working on Multimodal LLMs (text, audio, 
 
 
 == Some Publications 
-. Bin Wang, Xunlong Zou, Geyu Lin, Shuo Sun, Zhuohan Liu, Wenyu Zhang, Zhengyuan Liu, AiTi Aw, Nancy F. Chen. "AudioBench: A Universal Benchmark for Audio Large Language Models." ArXiv, 2024. \[[https://arxiv.org/abs/2406.16020 paper]\], \[[https://github.com/AudioLLMs/AudioBench code]\]
+. Bin Wang, Xunlong Zou, Geyu Lin, Shuo Sun, Zhuohan Liu, Wenyu Zhang, Zhengyuan Liu, AiTi Aw, Nancy F. Chen. "AudioBench: A Universal Benchmark for Audio Large Language Models." NAACL, 2025. \[[https://arxiv.org/abs/2406.16020 paper]\], \[[https://github.com/AudioLLMs/AudioBench code]\]
 . Bin Wang, Zhengyuan Liu, Xin Huang, Fangkai Jiao, Yang Ding, AiTi Aw, Nancy F. Chen. "SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning." NAACL, 2024. \[[https://aclanthology.org/2024.naacl-long.22/ paper]\], \[[https://github.com/SeaEval/SeaEval code]\]
 . Bin Wang, Chen Zhang, Yan Zhang, Yiming Chen and Haizhou Li. "Analyzing and Evaluating Faithfulness in Dialogue Summarization." EMNLP, 2022. \[[https://arxiv.org/abs/2210.11777 paper]\], \[[https://github.com/BinWang28/FacEval code]\]
 . Bin Wang, C.-C. Jay Kuo, and Haizhou Li. "Just Rank: Rethinking Evaluation with Word and Sentence Similarities." ACL, 2022. \[[https://arxiv.org/abs/2203.02679 paper]\], \[[https://github.com/BinWang28/EvalRank-Embedding-Evaluation code]\]
