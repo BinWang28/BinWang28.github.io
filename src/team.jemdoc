@@ -4,7 +4,7 @@ This page contains most research attachments.
 
 == Research Attachments
 ~~~
-{}{img_left}{./data/team-cartoon-1.png}{}{280px}{}{}
+{}{img_left}{assets/data/team-cartoon-1.png}{}{280px}{}{}
 
 === At USC
 - [https://www.linkedin.com/in/angela-wang-87a684140/details/education/ Angela Wang], Research Intern
@@ -65,6 +65,6 @@ This page contains most research attachments.
 
 == Project Team: NMLP - National Multimodal Large Language Models Programme
 ~~~
-{}{img_left}{./data/team-cartoon-2.jpg}{}{280px}{}{}
+{}{img_left}{assets/data/team-cartoon-2.jpg}{}{280px}{}{}
 === MERaLiON - AudioLLM (Data, Evaluation, Train)
 ~~~

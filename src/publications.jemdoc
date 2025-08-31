@@ -7,6 +7,18 @@ Please refer to my google scholar page for a complete list of publications:
 
 Last Update: Mar. 2022 (do not update very often)
 
+
+
+== Some Publications 
+. Bin Wang, Xunlong Zou, Geyu Lin, Shuo Sun, Zhuohan Liu, Wenyu Zhang, Zhengyuan Liu, AiTi Aw, Nancy F. Chen. "AudioBench: A Universal Benchmark for Audio Large Language Models." NAACL, 2025. \[[https://arxiv.org/abs/2406.16020 paper]\], \[[https://github.com/AudioLLMs/AudioBench code]\]
+. Bin Wang, Zhengyuan Liu, Xin Huang, Fangkai Jiao, Yang Ding, AiTi Aw, Nancy F. Chen. "SeaEval for Multilingual Foundation Models: From Cross-Lingual Alignment to Cultural Reasoning." NAACL, 2024. \[[https://aclanthology.org/2024.naacl-long.22/ paper]\], \[[https://github.com/SeaEval/SeaEval code]\]
+. Bin Wang, Chen Zhang, Yan Zhang, Yiming Chen and Haizhou Li. "Analyzing and Evaluating Faithfulness in Dialogue Summarization." EMNLP, 2022. \[[https://arxiv.org/abs/2210.11777 paper]\], \[[https://github.com/BinWang28/FacEval code]\]
+. Bin Wang, C.-C. Jay Kuo, and Haizhou Li. "Just Rank: Rethinking Evaluation with Word and Sentence Similarities." ACL, 2022. \[[https://arxiv.org/abs/2203.02679 paper]\], \[[https://github.com/BinWang28/EvalRank-Embedding-Evaluation code]\]
+. Bin Wang, Guangtao Wang, Jing Huang, Jiaxuan You, Jure Leskovec, and C.-C. Jay Kuo. "Inductive learning on commonsense knowledge graph completion." IJCNN, 2021. \[[https://arxiv.org/abs/2009.09263 paper]\], \[[https://github.com/BinWang28/InductivE code]\]
+. Bin Wang, and C.-C. Jay Kuo. "SBERT-WK: A sentence embedding method by dissecting bert-based word models." IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020. \[[https://ieeexplore.ieee.org/document/9140343 paper]\], \[[https://github.com/BinWang28/SBERT-WK-Sentence-Embedding code]\]
+. Bin Wang\*, Angela Wang\*, Fenxiao Chen, Yuncheng Wang, and C.-C. Jay Kuo. "Evaluating word embedding models: methods and experimental results." APSIPA transactions on signal and information processing, 2019. \[[https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/evaluating-word-embedding-models-methods-and-experimental-results/EDF43F837150B94E71DBB36B28B85E79 paper]\], \[[https://github.com/BinWang28/Word-Embedding-Eval code]\]
+
+
 == Preprints
 
 - \[[https://arxiv.org/abs/2112.09340 KG Completion]\]

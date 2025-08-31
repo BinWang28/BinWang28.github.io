@@ -1,0 +1,45 @@
+# jemdoc: menu{MENU}{index.html}, analytics{|}
+
+== Bin Wang
+
+~~~
+{}{img_left}{assets/data/profile.png}{alt text}{210}{210}{https://binwang.xyz/}
+AI Research Scientist
+\n
+MiroMind, Singapore
+\n
+Email: bwang28c@gmail.com / bin.wang@miromind.ai
+\n \n
+\[[https://scholar.google.com/citations?user=jUrRMv4AAAAJ&hl=en Google Scholar]]~
+\[[https://github.com/BinWang28 GitHub]]~
+\[[https://huggingface.co/binwang HuggingFace]]~
+\n
+\[[https://www.linkedin.com/in/bin-wang-3b7054140/ LinkedIn]]~
+\[[https://twitter.com/BinWang_Eng Twitter]]~
+\[[https://www.xiaohongshu.com/user/profile/5d61c7420000000001006c44 RedNote]]~
+~~~
+
+\n
+(*About Me*) I am currently a research scientist at [https://miromind.ai/ MiroMind], Singapore, where I focus on AGI and its applications. My prior roles include an AI scientist at the Institute for Infocomm Research ([https://www.a-star.edu.sg/i2r I2R, A*STAR]) and a research fellow at the [https://www.nus.edu.sg NUS]. I earned my Ph.D. from the [https://www.usc.edu/ USC], Los Angeles, under the supervision of [https://en.wikipedia.org/wiki/C.-C._Jay_Kuo C.C. Jay Kuo]. I have a strong record of academic contributions, with over 40 papers published in top-tier conferences and journals like ACL, EMNLP, NAACL, ACM KDD, TNNLS, and TASLP. My work has been recognized with multiple best paper awards. I have also served as the Publication Chair for EMNLP 2023 and as an editor for APSIPA Transactions.
+
+(*Openings@MiroMind*) We have opening on *Interns* (paid) and *Full-Time* positions at MiroMind. Positions available in *Singapore, Beijing, and Shanghai*. Interested candidates are welcome to reach out via my email.
+
+== Highlighted Projects
+
+- *Open Deep Research @ MiroMind*: [https://github.com/MiroMindAI/MiroFlow MiroFlow] and [https://github.com/MiroMindAI/MiroThinker MiroThinker] are the leading open-source agentic framework with models.
+- *Reasoning Models @ MiroMind*: [https://github.com/MiroMindAI/MiroMind-M1 MiroMind-M1]
+- *Audio Multimodal LLM @ I2R, A*STAR*: The MERaLiON project is a flagship initiative for Singapore's national AI program and I2R. It has received extensive media coverage and recognition.
+
+== News
+- 2025.05~We published a comprehensive survey paper titled "100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models" [https://arxiv.org/abs/2505.00551 arXiv].
+- 2025.03~A talk on AudioLLM evaluation will be given at Lorong AI. Check out the slides [data/AudioBench_for_Lorong_AI.pdf here].
+- 2025.03~I will be joining Shanda AI Research Institute (SARI) as an AI Research Scientist working on LLMs in May. I will still based in Singapore and open for collaboration opportunities.
+- 2025.01~Our AudioBench work is officially accepted to NAACL 2025 Main Conference! [https://huggingface.co/spaces/MERaLiON/AudioBench-Leaderboard Leaderboard] and [https://github.com/AudioLLMs/AudioBench Code].
+- 2024.12~We released [https://huggingface.co/MERaLiON MERaLiON models], the first audio-based large language model designed specifically for Singlish and other related tasks!
+- 2024-2026~Our team is working on National LLM Project [https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2023/sg-to-develop-southeast-asias-first-llm-ecosystem Press Coverage].
+- 2024~AudioBench is released with leaderboard and evaluation toolkit - [https://arxiv.org/abs/2406.16020 AudioLLM Evaluation].
+- 2024~NAACL [https://seaeval.github.io/ SeaEval for Multilingual Evaluation].
+
+
+[publications.html Full list of publications].
+

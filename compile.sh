@@ -1,1 +1,1 @@
-./jemdoc -c mysite.conf *.jemdoc
+cd src && ../src/jemdoc -c ../mysite.conf *.jemdoc && mv *.html ../
