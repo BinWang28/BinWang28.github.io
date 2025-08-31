@@ -27,8 +27,8 @@ Email: bwang28c@gmail.com / bin.wang@miromind.ai
 == Highlighted Projects
 
 - *Open Deep Research @ MiroMind*: [https://github.com/MiroMindAI/MiroFlow MiroFlow] and [https://github.com/MiroMindAI/MiroThinker MiroThinker] are the leading open-source agentic framework with models.
-- *Reasoning Models @ MiroMind*: [https://github.com/MiroMindAI/MiroMind-M1 MiroMind-M1]
-- *Audio Multimodal LLM @ I2R, A*STAR*: The MERaLiON project is a flagship initiative for Singapore's national AI program and I2R. It has received extensive media coverage and recognition.
+- *Reasoning Models @ MiroMind*: [https://github.com/MiroMindAI/MiroMind-M1 MiroMind-M1].
+- *Audio Multimodal LLM @ I2R, ASTAR*: [docs/meralion.md MERaLiON] is a flagship national AI project.
 
 == News
 - 2025.05~We published a comprehensive survey paper titled "100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models" [https://arxiv.org/abs/2505.00551 arXiv].
