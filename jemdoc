@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """jemdoc version 0.7.3, 2012-11-27."""
 
