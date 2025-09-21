@@ -32,7 +32,7 @@ Email: bwang28c@gmail.com / bin.wang@miromind.ai
 
 == News
 - 2025.05~We published a comprehensive survey paper titled "100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models" [https://arxiv.org/abs/2505.00551 arXiv].
-- 2025.03~A talk on AudioLLM evaluation will be given at Lorong AI. Check out the slides [data/AudioBench_for_Lorong_AI.pdf here].
+- 2025.03~A talk on AudioLLM evaluation will be given at Lorong AI. Check out the slides [assets/data/AudioBench_for_Lorong_AI.pdf here].
 - 2025.03~I will be joining MiroMind as an AI Research Scientist working on LLMs in May. I will still be based in Singapore and remain open to collaboration opportunities.
 - 2025.01~Our AudioBench work is officially accepted to NAACL 2025 Main Conference! [https://huggingface.co/spaces/MERaLiON/AudioBench-Leaderboard Leaderboard] and [https://github.com/AudioLLMs/AudioBench Code].
 - 2024.12~We released [https://huggingface.co/MERaLiON MERaLiON models], the first audio-based large language model designed specifically for Singlish and other related tasks!
