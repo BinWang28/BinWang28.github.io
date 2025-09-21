@@ -4,8 +4,8 @@
 === Some thoughts I have in case I forget:
 . What should we expect on AI developments? (TODO)
 . Find the meaning of Life. (TODO)
-. My understanding and experience with Audio-based Large Langauge Models. (TODO)
-. AI has becoming a product, what's next for academic and science? (TODO)
+. My understanding and experience with Audio-based Large Language Models. (TODO)
+. AI has become a product, what's next for academia and science? (TODO)
 . What are the pros and cons for working and living in Singapore? (TODO)
 
 === Readings (I record some of my readings here.)
@@ -14,5 +14,5 @@
 . 2025-02: Conformer: Convolution-augmented Transformer for Speech Recognition
 . 2025-02: SEAVL: TBD
 . 2025-02: SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages
-. 2025-01: An introduction to ASR and TTS? [https://web.stanford.edu/~jurafsky/slp3/16.pdf Book matrial].
+. 2025-01: An introduction to ASR and TTS? [https://web.stanford.edu/~jurafsky/slp3/16.pdf Book material].
 . 2025-01: How does Mix-of-Experts work? [https://huggingface.co/blog/moe A good tutorial blog in 2023].
