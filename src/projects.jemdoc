@@ -1,52 +1,58 @@
-# jemdoc: menu{MENU}{team.html}
-= Team
-This page contains all my projects.
+# jemdoc: menu{MENU}{projects.html}
+= Projects
 
-== 2020
-~~~
-{}{img_left}{assets/data/pic01.png}{}{280px}{}{}
-== Possibly broke spacetime
-=== Lorem ipsum dolor sit amet nullam id egestas urna aliquam
-Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.
-~~~
+This page contains information about my key research projects and contributions.
 
+== Current Projects @ MiroMind (2025-)
 
-== 2019
-~~~
-{}{img_left}{assets/data/pic02.png}{}{280px}{}{}
-== Terraformed a small moon
-=== Lorem ipsum dolor sit amet nullam id egestas urna aliquam
-Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.
-~~~
+=== MiroFlow & MiroThinker
+Open-source agentic frameworks and advanced AI models for research and applications.
+- [https://github.com/MiroMindAI/MiroFlow MiroFlow]: Leading open-source agentic framework
+- [https://github.com/MiroMindAI/MiroThinker MiroThinker]: Advanced reasoning and thinking framework
+- Focus: Agent platforms, reasoning systems, and practical AI applications
 
-~~~
-{}{img_left}{assets/data/pic03.png}{}{280px}{}{}
-== Snapped dark matter in the wild
-=== Lorem ipsum dolor sit amet nullam id egestas urna aliquam
-Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.
-~~~
+=== MiroMind-M1 Reasoning Models
+Advanced reasoning models developed at MiroMind for complex problem-solving tasks.
+- [https://github.com/MiroMindAI/MiroMind-M1 MiroMind-M1]: State-of-the-art reasoning capabilities
+- Applications: Mathematical reasoning, logical inference, and multi-step problem solving
 
+== Audio Multimodal Projects @ I2R, A*STAR (2023-2025)
 
+=== MERaLiON AudioLLM
+Flagship national AI project developing audio-based large language models for Southeast Asian languages.
+- [https://www.meralion.ai/ MERaLiON Website]: First audio LLM designed for Singlish and regional languages
+- [https://huggingface.co/MERaLiON Models]: Released models and datasets
+- Impact: Advancing multilingual and multicultural AI capabilities
 
-~~~
-{}{img_left}{assets/data/pic04.png}{}{280px}{}{}
-== Sed eu mauris sed dolor commodo efficitur eget at augue
-=== Proin consectetur sapien sit amet sagittis pharetra
-Mauris ut massa placerat, pellentesque nibh sit amet, sodales diam. Mauris leo odio, rhoncus et consectetur ut, suscipit et elit. Praesent non mollis nibh, at rhoncus est.
-~~~
+=== AudioBench Evaluation Framework
+Comprehensive benchmark and evaluation toolkit for Audio Large Language Models.
+- [https://github.com/AudioLLMs/AudioBench Code Repository]: Open-source evaluation framework
+- [https://huggingface.co/spaces/MERaLiON/AudioBench-Leaderboard Leaderboard]: Live evaluation results
+- [https://arxiv.org/abs/2406.16020 Paper]: NAACL 2025 accepted work
+- Contribution: Universal benchmark for AudioLLM evaluation
 
-== 2018
+== Multilingual & Cross-Cultural AI (2021-2025)
 
-~~~
-{}{img_left}{assets/data/pic05.png}{}{280px}{}{}
-== Donec gravida rutrum libero
-=== Curabitur mollis elementum mauris in volutpat
-Aenean posuere erat vel rutrum mollis. Aliquam mattis augue erat. Sed tellus turpis, laoreet id turpis vel, fringilla pulvinar nisi. Ut vitae euismod diam, et luctus tellus.
-~~~
+=== SeaEval Multilingual Evaluation
+Comprehensive evaluation framework for multilingual foundation models in Southeast Asian contexts.
+- [https://seaeval.github.io/ Project Website]: Evaluation suite and resources
+- [https://github.com/SeaEval/SeaEval Code]: Open-source evaluation toolkit
+- Focus: Cross-lingual alignment and cultural reasoning capabilities
 
-~~~
-{}{img_left}{assets/data/pic06.png}{}{280px}{}{}
-== Aliquet scelerisque risus tincidunt a
-=== Pellentesque dapibus, odio quis varius consequat
-Nunc eget ex et odio tempus convallis sed in eros. Aliquam laoreet bibendum erat, vitae accumsan tellus.
-~~~
+=== SEACrowd Data Initiative
+Multilingual multimodal data hub for Southeast Asian languages and cultures.
+- [https://arxiv.org/abs/2406.10118 Paper]: Comprehensive data collection and standardization
+- Impact: Enabling research in low-resource Southeast Asian languages
+
+== Representation Learning & Knowledge Graphs (2017-2023)
+
+=== Sentence and Word Embedding Research
+Advanced techniques for learning semantic representations from text.
+- SBERT-WK: Sentence embedding via BERT-based word model dissection
+- EvalRank: Rethinking evaluation with word and sentence similarities
+- Applications: Information retrieval, semantic search, and text understanding
+
+=== Knowledge Graph Completion
+Inductive learning approaches for commonsense knowledge graph completion.
+- InductivE: Novel inductive learning framework for KG completion
+- Focus: Commonsense reasoning and knowledge representation learning
