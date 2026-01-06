@@ -12,7 +12,7 @@ params:
   email:
     - "bwang28c@gmail.com"
   profile_image: "/assets/data/profile.png"
-  cv: "/assets/data/Resume_Bin.pdf"
+  cv: "/assets/data/resume_bin.pdf"
   social:
     google_scholar: "https://scholar.google.com/citations?user=jUrRMv4AAAAJ&hl=en"
     github: "https://github.com/BinWang28"
