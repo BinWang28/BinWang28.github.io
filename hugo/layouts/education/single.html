@@ -1,0 +1,65 @@
+{{ define "main" }}
+<div class="container">
+    <h1>{{ .Title }}</h1>
+    
+    {{ $eduId := .File.LogicalName | replaceRE "\\.md$" "" }}
+    {{ $eduData := index .Site.Data.education $eduId }}
+    
+    {{ if $eduData }}
+    {{/* Degree/Program Section - Separate */}}
+    <div class="content-section">
+        <h2>{{ if $eduData.degree }}Degree{{ else if $eduData.program }}Program{{ else }}Education{{ end }}</h2>
+        <p><strong>{{ if $eduData.degree }}{{ $eduData.degree }}{{ else if $eduData.program }}{{ $eduData.program }}{{ end }}</strong>{{ if $eduData.period }} ({{ $eduData.period }}){{ end }}{{ if $eduData.supervisor }}, Advisor: <a href="{{ $eduData.supervisor_url }}" target="_blank" rel="noopener noreferrer">{{ $eduData.supervisor }}</a>{{ end }}.</p>
+        {{ if $eduData.institution }}<p>{{ $eduData.institution }}</p>{{ end }}
+    </div>
+    
+    {{/* Combined Section for other content */}}
+    {{ if or $eduData.description $eduData.research_focus $eduData.publications $eduData.teaching $eduData.awards }}
+    <div class="content-section">
+        <h2>Experience & Achievements</h2>
+        
+        {{/* Description/Experience */}}
+        {{ if $eduData.description }}
+        <p>{{ $eduData.description }}</p>
+        {{ end }}
+        
+        {{/* Research Focus */}}
+        {{ if $eduData.research_focus }}
+        <h3>Research</h3>
+        <p>{{ $eduData.research_focus }}</p>
+        {{ end }}
+        
+        {{/* Publications */}}
+        {{ if $eduData.publications }}
+        <h3>Publications</h3>
+        <ul>
+            {{ range $eduData.publications }}
+            <li>{{ . }}</li>
+            {{ end }}
+        </ul>
+        {{ end }}
+        
+        {{/* Teaching */}}
+        {{ if $eduData.teaching }}
+        <h3>Teaching Experience</h3>
+        <ul>
+            {{ range $eduData.teaching }}
+            <li><strong>{{ .code }}</strong>: <a href="{{ .syllabus | relURL }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>, {{ .instructor }}, {{ .semester }}</li>
+            {{ end }}
+        </ul>
+        {{ end }}
+        
+        {{/* Awards */}}
+        {{ if $eduData.awards }}
+        <h3>Awards</h3>
+        <ul class="awards-list">
+            {{ range $eduData.awards }}
+            <li>{{ . }}</li>
+            {{ end }}
+        </ul>
+        {{ end }}
+    </div>
+    {{ end }}
+    {{ end }}
+</div>
+{{ end }}

@@ -1,0 +1,60 @@
+{{ define "main" }}
+<div class="container">
+    <h1>{{ .Title }}</h1>
+    
+    <div class="content-section">
+        <h2>Current Projects @ MiroMind (2025-)</h2>
+        {{ range .Site.Data.projects.current }}
+        <div class="project-card">
+            <h3>{{ .title }}</h3>
+            <p>{{ .description }}</p>
+            <ul>
+                {{ range .items }}
+                <li>{{ if .name }}<a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>{{ if .description }}: {{ .description }}{{ end }}{{ else }}{{ .description }}{{ end }}</li>
+                {{ end }}
+            </ul>
+        </div>
+        {{ end }}
+        
+        <h2 style="margin-top: var(--spacing-md);">Audio Multimodal Projects @ I²R, A*STAR (2023-2025)</h2>
+        {{ range .Site.Data.projects.audio }}
+        <div class="project-card">
+            <h3>{{ .title }}</h3>
+            <p>{{ .description }}</p>
+            <ul>
+                {{ range .items }}
+                <li>{{ if .name }}<a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>{{ if .description }}: {{ .description }}{{ end }}{{ else }}{{ .description }}{{ end }}</li>
+                {{ end }}
+            </ul>
+        </div>
+        {{ end }}
+        
+        <h2 style="margin-top: var(--spacing-md);">Multilingual & Cross-Cultural AI (2021-2025)</h2>
+        {{ range .Site.Data.projects.multilingual }}
+        <div class="project-card">
+            <h3>{{ .title }}</h3>
+            <p>{{ .description }}</p>
+            <ul>
+                {{ range .items }}
+                <li>{{ if .name }}<a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>{{ if .description }}: {{ .description }}{{ end }}{{ else }}{{ .description }}{{ end }}</li>
+                {{ end }}
+            </ul>
+        </div>
+        {{ end }}
+        
+        <h2 style="margin-top: var(--spacing-md);">Representation Learning & Knowledge Graphs (2017-2023)</h2>
+        {{ range .Site.Data.projects.representation }}
+        <div class="project-card">
+            <h3>{{ .title }}</h3>
+            <p>{{ .description }}</p>
+            <ul>
+                {{ range .items }}
+                <li>{{ .description }}</li>
+                {{ end }}
+            </ul>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}
+

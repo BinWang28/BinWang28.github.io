@@ -1,6 +1,19 @@
 _site
 .sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+.bundle
 Gemfile.lock
-*.gem
+node_modules
 
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
 
+# Hugo
+hugo/public/
+hugo/resources/

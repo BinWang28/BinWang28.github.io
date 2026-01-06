@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="container">
+    <h1>{{ .Title }}</h1>
+    
+    {{ if .Pages }}
+    <div class="blog-list">
+        {{ range .Pages }}
+        <article class="blog-card">
+            <div class="blog-card-header">
+                <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                <time class="blog-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+            </div>
+            <div class="blog-card-content">
+                {{ if .Summary }}
+                <p>{{ .Summary }}</p>
+                {{ else }}
+                <p>{{ .Content | truncate 200 }}</p>
+                {{ end }}
+            </div>
+            <div class="blog-card-footer">
+                <a href="{{ .Permalink }}" class="blog-read-more">Read more →</a>
+            </div>
+        </article>
+        {{ end }}
+    </div>
+    {{ else }}
+    <div class="content-section">
+        <p>Blog posts coming soon...</p>
+    </div>
+    {{ end }}
+</div>
+{{ end }}
+

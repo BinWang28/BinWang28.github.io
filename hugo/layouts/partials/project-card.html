@@ -1,0 +1,12 @@
+{{ range . }}
+<div class="project-card">
+    <h3>{{ .title }}</h3>
+    <p>{{ .description }}</p>
+    <ul>
+        {{ range .items }}
+        <li>{{ if .name }}<a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>{{ if .description }}: {{ .description }}{{ end }}{{ else }}{{ .description }}{{ end }}</li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}
+

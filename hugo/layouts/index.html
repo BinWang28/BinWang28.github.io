@@ -1,0 +1,55 @@
+{{ define "main" }}
+<div class="container">
+    <div class="home-content">
+        <!-- Profile Section -->
+        <div class="profile-section">
+            <img src="{{ .Site.Params.profile_image | relURL }}" alt="{{ .Site.Params.name }}" class="profile-photo">
+            <div class="profile-info">
+                <h1>{{ .Site.Params.name }}, Ph.D.</h1>
+                <p class="contact-links">
+                    <a href="{{ .Site.Params.social.linkedin }}" target="_blank">LinkedIn</a> · 
+                    <a href="{{ .Site.Params.social.twitter }}" target="_blank">X/Twitter</a> · 
+                    <a href="{{ .Site.Params.social.google_scholar }}" target="_blank">Scholar</a> · 
+                    <a href="{{ .Site.Params.social.github }}" target="_blank">GitHub</a>
+                </p>
+            </div>
+        </div>
+
+        <!-- About Section -->
+        <div class="about-section">
+            <p>I architect the next generation of intelligence and data.</p>
+            <p>Currently landing AI at MiroMind, Singapore, I focus on the frontiers of LLMs and Multimodal AI. Previously, I spearheaded research at A*STAR (I²R) and NUS. I hold a Ph.D. from USC under C.C. Jay Kuo. With 40+ papers in ACL, EMNLP, NAACL, KDD, TASLP, TNNLS, etc., my work has been recognized with multiple Best Paper Awards. I served as the Publication Chair for EMNLP 2023.</p>
+            <p>I grew up in Jining, Shandong, and have since lived and worked in several cities across the globe, including Chengdu, Hong Kong, Ontario, and Los Angeles. I am currently based in Singapore, where I really enjoy staying.</p>
+        </div>
+
+        <!-- Photo Section -->
+        <div class="photo-section">
+            <img src="{{ "/assets/data/squirral_in_washingtondc.jpg" | relURL }}" alt="Photo">
+            <p class="photo-caption">Shot in 2019 Winter at Princeton University</p>
+        </div>
+
+        <!-- Publications Section -->
+        <div class="publications-section">
+            <h2>Featured Publications</h2>
+            <ul class="publication-list">
+                <li><a href="https://arxiv.org/abs/2511.11793" target="_blank">MiroThinker: Pushing the Performance Boundaries of Open-Source Research..</a> · Technical Report 2025</li>
+                <li><a href="https://aclanthology.org/2025.acl-demo.3/" target="_blank">MERaLiON-AudioLLM: Bridging Audio and Language with Large Language Models</a> · ACL 2025</li>
+                <li><a href="https://aclanthology.org/2025.naacl-long.218/" target="_blank">AudioBench: A Universal Benchmark for Audio Large Language Models</a> · NAACL 2025</li>
+                <li><a href="https://aclanthology.org/2024.naacl-long.22/" target="_blank">SeaEval for Multilingual Foundation Models: From Cross-Lingual..</a> · NAACL 2024</li>
+                <li><a href="https://aclanthology.org/2022.acl-long.419/" target="_blank">Just Rank: Rethinking Evaluation with Word and Sentence Similarities</a> · ACL 2022</li>
+                <li><a href="https://ieeexplore.ieee.org/abstract/document/9140343" target="_blank">SBERT-WK: A Sentence Embedding Method by Dissecting BERT-based Word Models</a> · TASLP 2020</li>
+                <li><a href="https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/evaluating-word-embedding-models-methods-and-experimental-results/EDF43F837150B94E71DBB36B28B85E79" target="_blank">Evaluating Word Embedding Models: Methods and Experimental Results</a> · ATSIP 2019</li>
+            </ul>
+            <p class="pub-footer">For full publications, refer to <a href="https://scholar.google.com/citations?user=jUrRMv4AAAAJ&hl=en" target="_blank">Scholar</a>.</p>
+        </div>
+
+        {{ if .Site.Params.name_chinese }}
+        <!-- Chinese Art Section -->
+        <div class="chinese-art-section">
+            <img src="{{ "/assets/data/wangbin_cn_art.png" | relURL }}" alt="{{ .Site.Params.name_chinese }}" class="chinese-art">
+            <p class="chinese-art-caption">My Chinese name in calligraphy · 我的中文名字书法</p>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

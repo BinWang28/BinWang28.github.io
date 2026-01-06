@@ -1,0 +1,120 @@
+baseURL: "https://binwang28.github.io"
+languageCode: "en-us"
+title: "Bin Wang"
+theme: ""
+
+# Personal Information
+params:
+  name: "Bin Wang"
+  name_chinese: "王斌"
+  title: "AI Research Scientist"
+  affiliation: "MiroMind, Singapore"
+  email:
+    - "bwang28c@gmail.com"
+  profile_image: "/assets/data/profile.png"
+  cv: "/assets/data/Resume_Bin.pdf"
+  social:
+    google_scholar: "https://scholar.google.com/citations?user=jUrRMv4AAAAJ&hl=en"
+    github: "https://github.com/BinWang28"
+    huggingface: "https://huggingface.co/binwang"
+    linkedin: "https://www.linkedin.com/in/bin-wang-3b7054140/"
+    twitter: "https://x.com/BinWang_Eng"
+    rednote: "https://www.xiaohongshu.com/user/profile/5d61c7420000000001006c44"
+  google_analytics: "G-GQSE2H4QXE"
+
+# Menu
+menu:
+  main:
+    - identifier: "home"
+      name: "Home"
+      url: "/"
+      weight: 1
+    - identifier: "blog"
+      name: "Blogs"
+      url: "/blogs/"
+      weight: 2
+    - identifier: "work"
+      name: "Work Experience"
+      url: "#"
+      weight: 3
+    - identifier: "miromind"
+      name: "MiroMind (Current)"
+      url: "/work/miromind/"
+      parent: "work"
+      weight: 1
+    - identifier: "i2r"
+      name: "I²R, A*STAR"
+      url: "/work/i2r/"
+      parent: "work"
+      weight: 2
+    - identifier: "nus"
+      name: "NUS"
+      url: "/work/nus/"
+      parent: "work"
+      weight: 3
+    - identifier: "jd"
+      name: "JD AI Research"
+      url: "/work/jd/"
+      parent: "work"
+      weight: 4
+    - identifier: "ontario"
+      name: "Ontario Tech University"
+      url: "/work/ontario/"
+      parent: "work"
+      weight: 5
+    - identifier: "education"
+      name: "Education"
+      url: "#"
+      weight: 4
+    - identifier: "usc"
+      name: "USC"
+      url: "/education/usc/"
+      parent: "education"
+      weight: 1
+    - identifier: "uestc"
+      name: "UESTC"
+      url: "/education/uestc/"
+      parent: "education"
+      weight: 2
+    - identifier: "cityu"
+      name: "CityU HK"
+      url: "/education/cityu/"
+      parent: "education"
+      weight: 3
+    - identifier: "jining"
+      name: "Jining No.1 High School"
+      url: "/education/jining/"
+      parent: "education"
+      weight: 4
+    - identifier: "miscs"
+      name: "Miscs"
+      url: "/miscs/"
+      weight: 5
+    - identifier: "cv"
+      name: "CV"
+      url: "/assets/data/Resume_Bin.pdf"
+      weight: 6
+
+# Markdown settings
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      hardWraps: false
+  highlight:
+    style: "github"
+    codeFences: true
+    lineNos: false
+  defaultMarkdownHandler: goldmark
+
+# Build settings
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# Output formats
+outputs:
+  home:
+    - HTML
+    - RSS
+

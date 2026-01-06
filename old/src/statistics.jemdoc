@@ -1,0 +1,9 @@
+# jemdoc: menu{MENU}{statistics.html},analytics{|}
+==Statistics
+
+- Using Google Analytics - GA4
+{{
+    <iframe width="900" height="490" src="https://lookerstudio.google.com/embed/reporting/9c57cd1f-fd2f-45e0-870a-deab97ea8a7e/page/1M" frameborder="0" style="border:0" allowfullscreen></iframe>
+}}
+
+ 

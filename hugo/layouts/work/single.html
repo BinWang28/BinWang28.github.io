@@ -1,0 +1,316 @@
+{{ define "main" }}
+<div class="container">
+    <h1>{{ .Title }}</h1>
+    
+    {{ $workId := .File.LogicalName | replaceRE "\\.md$" "" }}
+    {{ $workData := index .Site.Data.work $workId }}
+    
+    {{ if $workData }}
+    {{/* Position Section */}}
+    {{ if $workData.position }}
+    <div class="content-section">
+        <h2>Position</h2>
+        <p><strong>{{ $workData.position }}</strong> ({{ $workData.period }}), {{ $workData.location }}{{ if $workData.supervisor }}. Supervised by <a href="{{ $workData.supervisor_url }}" target="_blank" rel="noopener noreferrer">{{ $workData.supervisor }}</a>{{ end }}.</p>
+        {{ if $workData.position2 }}
+        <p><strong>{{ $workData.position2 }}</strong>{{ if $workData.position2_details }} - {{ if $workData.position2_url }}<a href="{{ $workData.position2_url }}" target="_blank" rel="noopener noreferrer">{{ $workData.position2_details }}</a>{{ else }}{{ $workData.position2_details }}{{ end }}{{ end }}</p>
+        {{ end }}
+        {{ if $workData.supervisors }}
+        <p>Supervised by {{ range $i, $s := $workData.supervisors }}{{ if $i }} & {{ end }}{{ if $s.url }}<a href="{{ $s.url }}" target="_blank" rel="noopener noreferrer">{{ $s.name }}</a>{{ else }}{{ $s.name }}{{ end }}{{ end }} (JD AI Research){{ if $workData.collaboration }}, in collaboration with {{ $workData.collaboration | safeHTML }}{{ end }}.</p>
+        {{ end }}
+    </div>
+    {{ end }}
+    
+    {{/* Projects Section - Unified */}}
+    {{ if or $workData.projects_key $workData.projects }}
+    <div class="content-section">
+        <h2>Key Projects</h2>
+        {{ if $workData.projects }}
+        {{ partial "project-card.html" $workData.projects }}
+        {{ else }}
+        {{ if $workData.projects_key }}
+        {{ $projects := index .Site.Data.projects $workData.projects_key }}
+        {{ partial "project-card.html" $projects }}
+        {{ end }}
+        {{ if $workData.projects_key_secondary }}
+        {{ $projectsSecondary := index .Site.Data.projects $workData.projects_key_secondary }}
+        {{ partial "project-card.html" $projectsSecondary }}
+        {{ end }}
+        {{ end }}
+    </div>
+    {{ end }}
+    
+    {{/* Research Section - Combined */}}
+    {{ if or $workData.research_focus $workData.project_overview }}
+    <div class="content-section">
+        <h2>Research</h2>
+        
+        {{ if $workData.research_focus }}
+        <p>{{ $workData.research_focus }}</p>
+        {{ end }}
+        
+        {{ if $workData.project_overview }}
+        <p>{{ $workData.project_overview }}</p>
+        {{ end }}
+        
+        {{ if $workData.project_description }}
+        <p>{{ $workData.project_description }}</p>
+        {{ end }}
+        
+        {{ if $workData.technical_work }}
+        <h3>Technical Work</h3>
+        <ul>
+            {{ range $workData.technical_work }}
+            <li>{{ . }}</li>
+            {{ end }}
+        </ul>
+        {{ end }}
+        
+        {{ if $workData.achievements }}
+        <h3>Key Achievements</h3>
+        <ul>
+            {{ range $workData.achievements }}
+            <li>{{ . }}</li>
+            {{ end }}
+        </ul>
+        {{ end }}
+        
+        {{ if $workData.publication }}
+        <h3>Publication</h3>
+        <div style="margin-bottom: var(--spacing-md);">
+            <p style="margin-bottom: var(--spacing-xs);"><strong>{{ $workData.publication.title }}</strong></p>
+            <p style="color: var(--text-secondary); font-size: 0.95rem; margin-bottom: var(--spacing-xs);">{{ $workData.publication.authors }}</p>
+            <p style="color: var(--text-secondary); font-size: 0.95rem; font-style: italic;">{{ $workData.publication.venue }}, {{ $workData.publication.year }}{{ if $workData.publication.arxiv }} · <a href="{{ $workData.publication.arxiv }}" target="_blank">arXiv</a>{{ end }}</p>
+        </div>
+        {{ end }}
+        
+        {{ if $workData.awards }}
+        <h3>{{ if eq $workId "ontario" }}Awards & Recognition{{ else }}Awards{{ end }}</h3>
+        <ul class="awards-list">
+            {{ range $workData.awards }}
+            <li>
+                {{ if reflect.IsMap . }}
+                    {{ if .name }}<strong>{{ .name }}</strong>{{ if .description }} - {{ .description }}{{ end }}{{ end }}
+                {{ else }}
+                    {{ . }}
+                {{ end }}
+            </li>
+            {{ end }}
+        </ul>
+        {{ end }}
+        
+        {{ if $workData.videos }}
+        <h3>Demo Videos</h3>
+        {{ range $workData.videos }}
+        <div style="margin-bottom: var(--spacing-lg);">
+            <h4 style="font-size: 1rem; font-weight: 600; margin-bottom: var(--spacing-sm); color: var(--text-secondary);">{{ .title }}</h4>
+            <p style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: var(--spacing-sm);">{{ .description }}</p>
+            <div class="video-container">
+                <iframe 
+                    width="100%" 
+                    height="400" 
+                    src="{{ .url }}" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen>
+                </iframe>
+            </div>
+        </div>
+        {{ end }}
+        {{ end }}
+    </div>
+    {{ end }}
+    
+    {{/* Responsibilities */}}
+    {{ if $workData.responsibilities }}
+    <div class="content-section">
+        <h2>Responsibilities</h2>
+        <ul>
+            {{ range $workData.responsibilities }}
+            <li>{{ . }}</li>
+            {{ end }}
+        </ul>
+    </div>
+    {{ end }}
+    
+    {{/* Research Topics - Using Partial */}}
+    {{ partial "research-topics.html" $workData }}
+    
+    {{/* Research & Projects - Simple List */}}
+    {{ if $workData.research_projects }}
+    <div class="content-section">
+        <h2>Research & Projects</h2>
+        <ul>
+            {{ range $workData.research_projects }}
+            <li><a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>{{ if .description }} - {{ .description }}{{ end }}</li>
+            {{ end }}
+        </ul>
+    </div>
+    {{ end }}
+    
+    {{/* Research Section - Combined with Sub-sections */}}
+    {{ if $workData.research_section }}
+    <div class="content-section">
+        <h2>Research & Projects</h2>
+        
+        {{ if $workData.research_section.topics_summary }}
+        <h3>Summary</h3>
+        <p>{{ $workData.research_section.topics_summary }}</p>
+        {{ end }}
+        
+        {{ if $workData.research_section.research_topics }}
+        <h3>Research Topics</h3>
+        {{ range $topic := $workData.research_section.research_topics }}
+        <div style="margin-bottom: var(--spacing-md);">
+            <p><strong>{{ $topic.title }}</strong></p>
+            {{ if $topic.questions }}
+            <ul>
+                {{ range $topic.questions }}
+                <li>{{ . }}</li>
+                {{ end }}
+            </ul>
+            {{ end }}
+            {{ if $topic.outcomes }}
+            <p>Outcomes: {{ range $i, $outcome := $topic.outcomes }}{{ if $outcome.url }}<a href="{{ $outcome.url }}" target="_blank" rel="noopener noreferrer">{{ $outcome.name }}</a>{{ else }}{{ $outcome.name }}{{ end }}{{ if ne $i (sub (len $topic.outcomes) 1) }}, {{ end }}{{ end }}</p>
+            {{ end }}
+        </div>
+        {{ end }}
+        {{ end }}
+        
+        {{ if $workData.research_section.topics }}
+        <h3>Topics</h3>
+        <ul>
+            {{ range $workData.research_section.topics }}
+            <li>{{ . }}</li>
+            {{ end }}
+        </ul>
+        {{ end }}
+        
+        {{ if $workData.videos }}
+        <h3>Videos</h3>
+        {{ range $workData.videos }}
+        <div style="margin-bottom: var(--spacing-lg);">
+            <h4 style="font-size: 1rem; font-weight: 600; margin-bottom: var(--spacing-sm); color: var(--text-secondary);">{{ .title }}</h4>
+            <p style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: var(--spacing-sm);">{{ .description }}</p>
+            <div class="video-container">
+                <iframe 
+                    width="100%" 
+                    height="400" 
+                    src="{{ .url }}" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen>
+                </iframe>
+            </div>
+        </div>
+        {{ end }}
+        {{ end }}
+        
+        {{ if $workData.research_section.projects }}
+        <h3>Projects</h3>
+        <ul>
+            {{ range $workData.research_section.projects }}
+            <li><a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>{{ if .description }} - {{ .description }}{{ end }}</li>
+            {{ end }}
+        </ul>
+        {{ end }}
+        
+        {{ if $workData.research_section.publications }}
+        <h3>Publications</h3>
+        <ul>
+            {{ range $workData.research_section.publications }}
+            {{ if reflect.IsMap . }}
+            <li><a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>{{ if .venue }} ({{ .venue }}){{ end }}</li>
+            {{ else }}
+            <li>{{ . }}</li>
+            {{ end }}
+            {{ end }}
+        </ul>
+        {{ end }}
+        
+        {{ if $workData.research_section.awards }}
+        <h3>Awards</h3>
+        <ul class="awards-list">
+            {{ range $workData.research_section.awards }}
+            <li>
+                {{ if reflect.IsMap . }}
+                    {{ if .name }}<strong>{{ .name }}</strong>{{ if .description }}<br><span style="margin-left: 1rem; color: var(--text-secondary);">{{ .description }}</span>{{ end }}{{ end }}
+                {{ else }}
+                    {{ . }}
+                {{ end }}
+            </li>
+            {{ end }}
+        </ul>
+        {{ end }}
+        
+        {{ if $workData.talks }}
+        <h3>Talks</h3>
+        <ul class="news-list">
+            {{ range $workData.talks }}
+            <li>
+                {{ if .date }}<span class="news-date">{{ .date }}</span>{{ end }}
+                {{ if .event }}Give a talk at {{ .event }}. {{ end }}{{ if .title }}Topic and slides: <a href="{{ .slides | relURL }}" target="_blank" rel="noopener noreferrer">{{ .title }}</a>{{ end }}{{ if .description }}{{ .description }}{{ end }}
+            </li>
+            {{ end }}
+        </ul>
+        {{ end }}
+        
+        {{ if $workData.research_section.academic_services }}
+        <h3>Academic Services</h3>
+        <ul>
+            {{ range $workData.research_section.academic_services }}
+            <li>{{ . }}</li>
+            {{ end }}
+        </ul>
+        {{ end }}
+        
+        {{ if $workData.research_section.students }}
+        <h3>Students</h3>
+        <ul>
+            {{ range $workData.research_section.students }}
+            {{ if reflect.IsMap . }}
+            <li>
+                <strong>{{ .name }}</strong>{{ if .degree }}, {{ .degree }}{{ end }}{{ if .affiliation }}, {{ .affiliation }}{{ end }}
+                {{ if .supervisor }}<br>Main Supervisor: {{ .supervisor }}{{ end }}
+                {{ if .period }}<br><em>{{ .period }}</em>{{ end }}
+                {{ if .topic }}<br>Topic: {{ .topic }}{{ end }}
+                {{ if .publication }}<br>Publication: {{ .publication }}{{ end }}
+            </li>
+            {{ else }}
+            <li>{{ . }}</li>
+            {{ end }}
+            {{ end }}
+        </ul>
+        {{ end }}
+    </div>
+    {{ end }}
+    
+    {{/* Academic Services */}}
+    {{ if $workData.academic_services }}
+    <div class="content-section">
+        <h2>Academic Services</h2>
+        <ul class="services-list">
+            {{ range $workData.academic_services }}
+            <li>
+                {{ if .highlight }}<strong>{{ end }}{{ if .date }}{{ .date }}: {{ end }}{{ .description }}{{ if .highlight }}</strong>{{ end }}
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+    {{ end }}
+    
+    {{/* Call for Papers */}}
+    {{ if $workData.call_for_papers }}
+    <div class="content-section">
+        <h2>Call for Papers</h2>
+        <p>I am serving a member of Editorial Board for journal: <a href="{{ $workData.call_for_papers.url }}" target="_blank" rel="noopener noreferrer">{{ $workData.call_for_papers.journal }}</a> from year {{ $workData.call_for_papers.period }}.</p>
+        <ul>
+            {{ range $workData.call_for_papers.notes }}
+            <li>{{ . }}</li>
+            {{ end }}
+        </ul>
+    </div>
+    {{ end }}
+    
+    {{ end }}
+</div>
+{{ end }}

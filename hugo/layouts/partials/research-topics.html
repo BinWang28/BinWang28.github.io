@@ -1,0 +1,17 @@
+{{ if .research_topics }}
+<div class="content-section">
+    <h2>Research Topics</h2>
+    {{ range $topic := .research_topics }}
+    <h3>{{ $topic.title }}</h3>
+    <ul>
+        {{ range $topic.questions }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+    {{ if $topic.outcomes }}
+    <p><strong>Current Outcomes:</strong> {{ range $i, $outcome := $topic.outcomes }}<a href="{{ $outcome.url }}" target="_blank" rel="noopener noreferrer">{{ $outcome.name }}</a>{{ if ne $i (sub (len $topic.outcomes) 1) }}, {{ end }}{{ end }}</p>
+    {{ end }}
+    {{ end }}
+</div>
+{{ end }}
+

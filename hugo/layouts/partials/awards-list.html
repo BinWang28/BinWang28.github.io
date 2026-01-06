@@ -1,0 +1,19 @@
+{{ if .awards }}
+<div class="content-section">
+    <h2>{{ if .awards_title }}{{ .awards_title }}{{ else }}Awards{{ end }}</h2>
+    <ul class="awards-list">
+        {{ range .awards }}
+        <li>
+            {{ if reflect.IsMap . }}
+                {{ if .name }}<strong>{{ .name }}</strong>{{ if .description }}<br><span style="margin-left: 1rem; color: var(--text-secondary);">{{ .description }}</span>{{ end }}{{ end }}
+            {{ else if reflect.IsSlice . }}
+                {{ . }}
+            {{ else }}
+                {{ . }}
+            {{ end }}
+        </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}
+

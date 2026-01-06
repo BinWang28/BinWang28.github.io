@@ -1,1 +1,0 @@
-cd src && python3 -W ignore::SyntaxWarning ../src/jemdoc -c ../mysite.conf *.jemdoc && mv *.html ../

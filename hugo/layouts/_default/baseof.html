@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{ if .Site.Params.google_analytics }}
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.google_analytics }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ .Site.Params.google_analytics }}');
+    </script>
+    {{ end }}
+    <meta name="description" content="{{ .Site.Params.description | default .Site.Title }}">
+    <title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relURL }}">
+    <base href="{{ .Site.BaseURL }}">
+</head>
+<body>
+    {{ partial "navigation.html" . }}
+    
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+    
+    {{ partial "footer.html" . }}
+    
+    <script src="{{ "/assets/js/main.js" | relURL }}"></script>
+</body>
+</html>
+

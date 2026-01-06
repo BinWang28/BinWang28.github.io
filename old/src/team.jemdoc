@@ -1,0 +1,112 @@
+# jemdoc: menu{MENU}{team.html}
+= Research Attachments
+This page contains information about research collaborations and team members.
+
+
+== MiroMind.ai
+
+~~~
+{}{img_left}{assets/data/team-cartoon-1.png}{Pengxiang Zhu}{120px}{120px}{}
+- [https://jubsteven.github.io/ Pengxiang Zhu], Research Scientist Intern
+-- 2025-09 - Now
+-- Master's student, NUS, Singapore
+-- Research on Agent Platform
+~~~
+
+
+~~~
+{}{img_left}{assets/data/team-cartoon-1.png}{Ziqi Jin}{120px}{120px}{}
+- [https://scholar.google.com/citations?user=on-f0-IAAAAJ&hl=zh-CN Ziqi Jin], Research Scientist Intern
+-- 2025-07 - Now
+-- Ph.D. student, NTU, Singapore
+-- Research on NLP
+~~~
+
+
+
+== I2R, A*STAR
+~~~
+{}{img_left}{assets/data/team-cartoon-1.png}{Pham The Binh Minh}{120px}{120px}{}
+- [https://www.linkedin.com/in/phamthebinhminh/?originalSubdomain=sg Pham The Binh Minh], Undergraduate Research Intern
+-- 2025-01 - 2025-05
+-- Undergraduate, NTU, Singapore
+-- Research on multimodal large language models
+~~~
+
+~~~
+{}{img_left}{assets/data/team-cartoon-1.png}{Yiming Gao}{120px}{120px}{}
+- [https://www.ntu.edu.sg/ Yiming Gao], Undergraduate Research Intern
+-- 2025-01 - 2025-05
+-- Undergraduate, NTU, Singapore
+-- Research on multimodal large language models
+~~~
+
+~~~
+{}{img_left}{assets/data/team-cartoon-1.png}{Tey Xue Cong}{120px}{120px}{}
+- [https://www.linkedin.com/in/xue-cong-tey-7a9a89273/ Tey Xue Cong], A\*STAR Scholar Intern. Main Supervisor: Xunlong Zou
+-- 2025-02 - 2025-04
+-- Ngee Ann Polytechnic, Singapore
+-- Work on data collection and processing
+~~~
+
+~~~
+{}{img_left}{assets/data/team-cartoon-1.png}{Jayden Lum}{120px}{120px}{}
+- [https://www.linkedin.com/in/ireallylikerubberduckieshowcouldyoutell/ Jayden Lum], A\*STAR Scholar Intern. Main Supervisor: Xunlong Zou
+-- 2025-02 - 2025-04
+-- Ngee Ann Polytechnic, Singapore
+-- Work on data collection and processing
+~~~
+
+~~~
+{}{img_left}{assets/data/team-cartoon-1.png}{Yanchao Li}{120px}{120px}{}
+- [https://scholar.google.com/citations?user=0N9uABwAAAAJ&hl=zh-CN Yanchao Li], ACIS PhD Scholar. Main Supervisor: Nancy F. Chen
+-- 2024-01 - 2025-04
+-- Ph.D. student, NTU, Singapore
+-- Research on long video understanding
+~~~
+
+~~~
+{}{img_left}{assets/data/team-cartoon-1.png}{Ziyi Xu}{120px}{120px}{}
+- [https://www.linkedin.com/in/ziyi-xu-joyce/ Ziyi Xu], Research Intern. Main Supervisor: Sun Shuo
+-- 2024-07 - 2024-12
+-- Master's student, NUS, Singapore
+-- Work on multimodal alignment data collection and filtering.
+~~~
+
+~~~
+{}{img_left}{assets/data/team-cartoon-1.png}{Ayrton San Joaquin}{120px}{120px}{}
+- [https://www.linkedin.com/in/ajsanjoaquin/ Ayrton San Joaquin], Research Associate
+-- 2023-09 - 2024-08
+-- DesCarte@CREATE, Singapore
+-- Research on efficient training of large language models through gradient estimation. 
+-- Publication: [https://aclanthology.org/2024.findings-emnlp.604/ EMNLP 2024 Findings].
+~~~
+
+~~~
+{}{img_left}{assets/data/team-cartoon-1.png}{Anh Thuc Nguyen}{120px}{120px}{}
+- [https://www.linkedin.com/in/anhn2/ Anh Thuc Nguyen], Research Intern
+-- 2024-01 - 2024-05
+-- Undergraduate student from UNC Chapel Hill, USA
+-- Work on question generation for MERaLiON project and evaluation dataset creation.
+~~~
+
+== NUS
+~~~
+{}{img_left}{assets/data/team-cartoon-1.png}{Yan Xiao}{120px}{120px}{}
+- [https://english.dhu.edu.cn/ Yan Xiao], Ph.D., Donghua University, China
+-- 2023-02 - 2024-02
+-- Research on relation extraction from text
+-- Publication: [https://ieeexplore.ieee.org/document/10721241 IEEE TNNLS]
+~~~
+
+
+== USC
+~~~
+{}{img_left}{assets/data/team-cartoon-1.png}{Angela Wang}{120px}{120px}{}
+- [https://www.linkedin.com/in/angela-wang-87a684140/details/education/ Angela Wang], Research Intern
+-- 2018-06 - 2018-09
+-- Undergraduate student, University of California, Berkeley, USA
+-- Research on word representation learning and evaluation theory 
+-- Publication: [https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EDF43F837150B94E71DBB36B28B85E79/S204877031900012Xa.pdf/div-class-title-evaluating-word-embedding-models-methods-and-experimental-results-div.pdf APSIPA TSIP]
+~~~
+

@@ -1,0 +1,52 @@
+# jemdoc: menu{MENU}{biography.html}, analytics{|}
+==Biography
+
+    - /05\/2025 - Present/:  AI Research Scientist, MiroMind, Singapore
+    - /04\/2023 - 04\/2025/:  Scientist, I2R, A*STAR, Singapore
+    - /09\/2021 - 03\/2023/: Research Fellow, National University of Singapore
+    - /08\/2017 - 05\/2021/: Ph.D. Student, University of Southern California, USA
+    - /05\/2020 - 08\/2020/: Research Intern, JD AI Research, USA
+    - /09\/2013 - 07\/2017/: Undergraduate Student, University of Electronic Science and Technology of China
+    - /07\/2016 - 10\/2016/: Research Intern, Ontario Tech University, Canada
+    - /08\/2015 - 12\/2015/: Exchange Student, City University of Hong Kong
+    - /09\/2010 - 07\/2013/: Student, Jining No.1 High School, Shandong, China
+
+
+== Awards
+
+    - APSIPA Sadaoki Furui Prize Paper Award, 2024
+    - Best Paper Award - C3NLP Workshop, ACL 2024
+    - APSIPA Sadaoki Furui Prize Paper Award, 2022
+    - GSG Research Travel Grant, USC, 2019
+    - Excellent Graduate of Sichuan Province, 2017
+    - Undergraduate National Scholarship, China, 2016
+    - Tanglixin Scholarship, UESTC, 2016
+    - Undergraduate National Scholarship, China, 2015
+    - Samsung Undergraduate Scholarship, 2015
+    - Outstanding Student Leadership, UESTC, 2014
+
+== Short Bio.
+
+    Bin Wang is an AI Research Scientist at MiroMind, Singapore. He received his Ph.D. from the University of Southern California, Los Angeles in 2021 and his B.Eng. from the University of Electronic Science and Technology of China. He was a Research Fellow at the National University of Singapore from 2021 to 2023 and an AI scientist at the Institute for Infocomm Research (I2R, A*STAR, Singapore) from 2023 to 2025. His research focuses on multimodal large language models and conversational AI systems. He served as Publication Chair for EMNLP 2023 and as an Editorial Board Member for APSIPA Transactions. He has published over 40 academic papers in top journals and conferences including ACL, EMNLP, NAACL, ACM KDD, TNNLS, and TASLP, and has received multiple best paper awards.
+
+== About Me
+
+    I am an AI Research Scientist at MiroMind, Singapore. Before that, I was a Scientist at the Aural \& Language Intelligence Department, I2R, A\*STAR from 2023 to 2025 and a research fellow at the National University of Singapore ([https://www.nus.edu.sg/ NUS]) working with Prof. [https://colips.org/~eleliha/ Haizhou Li] from 2021-2023. I received my Ph.D. degree from the University of Southern California ([https://www.usc.edu/ USC]) under the supervision of Prof. [https://viterbi.usc.edu/directory/faculty/Kuo/Chung-Chieh C.-C. Jay Kuo] in 2021. My bachelor's degree was obtained from the University of Electronic Science and Technology of China ([https://en.uestc.edu.cn/ UESTC]) in 2017.
+
+
+=== Some of the topics that I am currently researching include:
+. *Making LLMs hear* - AudioLLM - Audio-Based Large Language Models
+    .. What techniques can be used to effectively integrate audio processing capabilities into existing LLM architectures? 
+    .. What is the most efficient approach for achieving seamless cross-modality integration? 
+    .. What benchmarks can be designed to accurately evaluate the real-world performance of AudioLLMs?
+    .. Current Outcomes: [https://huggingface.co/MERaLiON MERaLiON-AudioLLM], [https://github.com/AudioLLMs/AudioBench AudioBench], [https://github.com/AudioLLMs/Awesome-Audio-LLM Awesome-Audio-LLM], [https://arxiv.org/abs/2409.06635 MoWE-Audio]
+. *Multilingual and Multicultural LLM*
+    .. What unique properties should a multilingual LLM possess to cater to diverse languages effectively?
+    .. How can multilingual learning be made more efficient and effective, especially for low-resource languages?
+    .. What internal mechanisms can ensure robust multilingual knowledge alignment within the model?
+    .. Current Outcomes: [https://aclanthology.org/2024.naacl-long.22/ SeaEval], [https://aclanthology.org/2024.c3nlp-1.4/ CRAFT], [https://arxiv.org/abs/2404.11932 CrossIn], [https://arxiv.org/abs/2406.10118 SEACrowd]
+. *Conversational AI*
+    .. Representation Learning for Retrieval-Augmented Generation, Knowledge Graphs
+    .. What representation and coordination strategies can enhance multi-agent communication in shared environments?
+    .. What methods can enable conversational agents to effectively reason and plan based on learned or provided world models?
+    .. Current Outcomes: [https://dl.acm.org/doi/abs/10.1109/TASLP.2020.3008390 Representation Learning], [https://ieeexplore.ieee.org/document/9534355 Commonsense Knowledge Graph]    
