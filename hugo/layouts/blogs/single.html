@@ -9,6 +9,10 @@
                 <span>•</span>
                 <span>By {{ .Params.author }}</span>
                 {{ end }}
+                {{ if .Params.translation }}
+                <span>•</span>
+                <a href="{{ .Params.translation }}" class="lang-switch">{{ .Params.translation_label }}</a>
+                {{ end }}
             </div>
         </header>
         <div class="blog-post-content content-section">

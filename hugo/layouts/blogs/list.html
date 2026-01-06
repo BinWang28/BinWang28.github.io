@@ -5,6 +5,7 @@
     {{ if .Pages }}
     <div class="blog-list">
         {{ range .Pages }}
+        {{ if not .Params.hidden }}
         <article class="blog-card">
             <div class="blog-card-header">
                 <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
@@ -21,6 +22,7 @@
                 <a href="{{ .Permalink }}" class="blog-read-more">Read more →</a>
             </div>
         </article>
+        {{ end }}
         {{ end }}
     </div>
     {{ else }}
