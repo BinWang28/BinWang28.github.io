@@ -1127,26 +1127,7 @@ h1 {
     overflow: hidden;
 }
 
-.blog-card::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 4px;
-    background: linear-gradient(90deg, var(--primary) 0%, var(--primary-light) 100%);
-    opacity: 0;
-    transition: opacity var(--transition);
-}
-
-.blog-card:hover {
-    box-shadow: var(--shadow-lg);
-    transform: translateY(-4px);
-}
-
-.blog-card:hover::before {
-    opacity: 1;
-}
+/* Removed blog-card hover effects for cleaner look */
 
 .blog-card-header {
     margin-bottom: var(--spacing-md);
