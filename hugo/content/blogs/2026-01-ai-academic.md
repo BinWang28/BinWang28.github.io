@@ -1,7 +1,7 @@
 ---
 title: "Is AI Academia Dead? Surviving in 2026"
 date: 2025-01-10
-draft: false
+draft: true
 summary: "Exploring the current landscape, challenges, and future directions of artificial intelligence research, from large language models to responsible AI development."
 ---
 
