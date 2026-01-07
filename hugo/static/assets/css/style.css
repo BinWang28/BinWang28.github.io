@@ -895,7 +895,7 @@ h1 {
         flex-direction: column;
         background: var(--bg-card);
         width: 100%;
-        text-align: left;
+        text-align: center;
         transition: var(--transition);
         box-shadow: var(--shadow-lg);
         padding: var(--spacing-md) 0;
@@ -903,6 +903,7 @@ h1 {
         border-bottom: 1px solid var(--border);
         max-height: calc(100vh - 60px);
         overflow-y: auto;
+        align-items: center;
     }
 
     .nav-menu.active {
@@ -911,6 +912,13 @@ h1 {
 
     .nav-dropdown {
         width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .nav-dropdown .nav-link {
+        justify-content: center;
     }
 
     .dropdown-menu {
@@ -934,6 +942,7 @@ h1 {
 
     .dropdown-link {
         padding: var(--spacing-sm) var(--spacing-lg);
+        text-align: center;
     }
 
     .nav-toggle {
