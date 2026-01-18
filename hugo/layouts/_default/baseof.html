@@ -16,7 +16,7 @@
     </script>
     {{ end }}
     <meta name="description" content="{{ .Site.Params.description | default .Site.Title }}">
-    <title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else if .Title }}{{ .Title }} - {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relURL }}">
     <base href="{{ .Site.BaseURL }}">
 </head>
