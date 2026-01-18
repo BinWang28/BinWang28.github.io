@@ -6,31 +6,44 @@
             <img src="{{ .Site.Params.profile_image | relURL }}" alt="{{ .Site.Params.name }}" class="profile-photo">
             <div class="profile-info">
                 <h1>{{ .Site.Params.name }}, Ph.D.</h1>
-                <p class="contact-links">
-                    <a href="{{ .Site.Params.social.linkedin }}" target="_blank">LinkedIn</a> · 
-                    <a href="{{ .Site.Params.social.twitter }}" target="_blank">X/Twitter</a> · 
-                    <a href="{{ .Site.Params.social.google_scholar }}" target="_blank">Scholar</a> · 
-                    <a href="{{ .Site.Params.social.github }}" target="_blank">GitHub</a>
-                </p>
+                <div class="social-icons">
+                    <a href="{{ .Site.Params.social.linkedin }}" target="_blank" title="LinkedIn" class="social-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+                    </a>
+                    <a href="{{ .Site.Params.social.twitter }}" target="_blank" title="X/Twitter" class="social-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+                    </a>
+                    <a href="{{ .Site.Params.social.google_scholar }}" target="_blank" title="Google Scholar" class="social-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/></svg>
+                    </a>
+                    <a href="{{ .Site.Params.social.github }}" target="_blank" title="GitHub" class="social-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+                    </a>
+                    <a href="{{ .Site.Params.social.huggingface }}" target="_blank" title="Hugging Face" class="social-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm-.5 3.5c.69 0 1.25.56 1.25 1.25S12.19 8 11.5 8s-1.25-.56-1.25-1.25.56-1.25 1.25-1.25zm5 0c.69 0 1.25.56 1.25 1.25S17.19 8 16.5 8s-1.25-.56-1.25-1.25.56-1.25 1.25-1.25zM8.5 9c.83 0 1.5.67 1.5 1.5S9.33 12 8.5 12 7 11.33 7 10.5 7.67 9 8.5 9zm7 0c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5-1.5-.67-1.5-1.5.67-1.5 1.5-1.5zm-3.5 4c2.33 0 4.31 1.46 5.11 3.5H6.89c.8-2.04 2.78-3.5 5.11-3.5z"/></svg>
+                    </a>
+                </div>
             </div>
         </div>
 
         <!-- About Section -->
         <div class="about-section">
-            <p>I architect the next generation of intelligence and data.</p>
-            <p>Currently landing AI at MiroMind, Singapore, I focus on the frontiers of LLMs and Multimodal AI. Previously, I spearheaded research at A*STAR (I²R) and NUS. I hold a Ph.D. from USC under C.C. Jay Kuo. With 40+ papers in ACL, EMNLP, NAACL, KDD, TASLP, TNNLS, etc., my work has been recognized with multiple Best Paper Awards. I served as the Publication Chair for EMNLP 2023.</p>
+            <p>My career is driven by a dual passion: advancing technology for the benefit of humanity and the personal joy of discovery.</p>
+            <p>I am an AI researcher at MiroMind AI, an AGI-focused organization under Shanda Group, where I specialize in agentic model development. Before joining MiroMind, I conducted research at A*STAR and the National University of Singapore (NUS). I earned my PhD from the University of Southern California (USC).</p>
             <p>I grew up in Jining, Shandong, and have since lived and worked in several cities across the globe, including Chengdu, Hong Kong, Ontario, and Los Angeles. I am currently based in Singapore, where I really enjoy staying.</p>
         </div>
 
         <!-- Photo Section -->
         <div class="photo-section">
             <img src="{{ "/assets/data/squirral_in_washingtondc.jpg" | relURL }}" alt="Photo">
-            <p class="photo-caption">Shot in 2019 Winter at Princeton University</p>
+            <p class="photo-caption">Shot in 2019 Winter at Washington D.C.</p>
         </div>
 
         <!-- Publications Section -->
         <div class="publications-section">
-            <h2>Featured Publications</h2>
+            <h2>Research</h2>
+            <p>Starting from 2017, I entered the field of NLP and language and representation learning, which later became the core technique of AI after years. My early work focused on the intricacies of neural representations, a path that led to significant contributions in ACL, EMNLP, and NAACL.</p>
+            <p>As the field shifted toward massive pre-trained models, my research pivoted to address the challenges of Multimodal AI, specifically speech and audio signals, integrating linguistic depth with cross-domain data. Today, at MiroMind, I bridge the gap between "the lab" and "the product," applying my doctoral training and my years of research at A*STAR and NUS to solve the next generation of AI agentic challenges in the heart of Singapore's tech ecosystem.</p>
             <ul class="publication-list">
                 <li><a href="https://arxiv.org/abs/2511.11793" target="_blank">MiroThinker: Pushing the Performance Boundaries of Open-Source Research..</a> · Technical Report 2025</li>
                 <li><a href="https://aclanthology.org/2025.acl-demo.3/" target="_blank">MERaLiON-AudioLLM: Bridging Audio and Language with Large Language Models</a> · ACL 2025</li>
@@ -43,13 +56,29 @@
             <p class="pub-footer">For full publications, refer to <a href="https://scholar.google.com/citations?user=jUrRMv4AAAAJ&hl=en" target="_blank">Scholar</a>.</p>
         </div>
 
-        {{ if .Site.Params.name_chinese }}
-        <!-- Chinese Art Section -->
-        <div class="chinese-art-section">
-            <img src="{{ "/assets/data/wangbin_cn_art.png" | relURL }}" alt="{{ .Site.Params.name_chinese }}" class="chinese-art">
-            <p class="chinese-art-caption">My Chinese name in calligraphy · 我的中文名字书法</p>
+        <!-- Affiliations Logos Section -->
+        <div class="affiliations-section">
+            <div class="logos-track">
+                <div class="logos-slide">
+                    <img src="{{ "/assets/data/logos/miromind.png" | relURL }}" alt="MiroMind" title="MiroMind">
+                    <img src="{{ "/assets/data/logos/astar.png" | relURL }}" alt="A*STAR" title="A*STAR">
+                    <img src="{{ "/assets/data/logos/nus.png" | relURL }}" alt="NUS" title="National University of Singapore">
+                    <img src="{{ "/assets/data/logos/usc.png" | relURL }}" alt="USC" title="University of Southern California">
+                    <img src="{{ "/assets/data/logos/jd.png" | relURL }}" alt="JD AI" title="JD AI Research">
+                    <img src="{{ "/assets/data/logos/uestc.png" | relURL }}" alt="UESTC" title="University of Electronic Science and Technology of China">
+                    <img src="{{ "/assets/data/logos/cityu.png" | relURL }}" alt="CityU" title="City University of Hong Kong">
+                </div>
+                <div class="logos-slide">
+                    <img src="{{ "/assets/data/logos/miromind.png" | relURL }}" alt="MiroMind" title="MiroMind">
+                    <img src="{{ "/assets/data/logos/astar.png" | relURL }}" alt="A*STAR" title="A*STAR">
+                    <img src="{{ "/assets/data/logos/nus.png" | relURL }}" alt="NUS" title="National University of Singapore">
+                    <img src="{{ "/assets/data/logos/usc.png" | relURL }}" alt="USC" title="University of Southern California">
+                    <img src="{{ "/assets/data/logos/jd.png" | relURL }}" alt="JD AI" title="JD AI Research">
+                    <img src="{{ "/assets/data/logos/uestc.png" | relURL }}" alt="UESTC" title="University of Electronic Science and Technology of China">
+                    <img src="{{ "/assets/data/logos/cityu.png" | relURL }}" alt="CityU" title="City University of Hong Kong">
+                </div>
+            </div>
         </div>
-        {{ end }}
     </div>
 </div>
 {{ end }}
