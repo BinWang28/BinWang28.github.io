@@ -4,9 +4,8 @@
             {{ range .Site.Menus.main }}
             {{ if .HasChildren }}
             <li class="nav-dropdown">
-                <a href="#" class="nav-link dropdown-toggle {{ if or (eq $.RelPermalink .URL) (in $.RelPermalink .Identifier) }}active{{ end }}">
+                <a href="{{ .URL }}" class="nav-link dropdown-toggle {{ if or (eq $.RelPermalink .URL) (in $.RelPermalink .Identifier) }}active{{ end }}">
                     {{ .Name }}
-                    <span class="dropdown-arrow">▼</span>
                 </a>
                 <ul class="dropdown-menu">
                     {{ range .Children }}

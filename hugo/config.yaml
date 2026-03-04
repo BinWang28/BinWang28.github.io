@@ -35,7 +35,7 @@ menu:
       weight: 2
     - identifier: "work"
       name: "Work Experience"
-      url: "#"
+      url: "/work/miromind/"
       weight: 3
     - identifier: "miromind"
       name: "MiroMind (Current)"
@@ -64,7 +64,7 @@ menu:
       weight: 5
     - identifier: "education"
       name: "Education"
-      url: "#"
+      url: "/education/usc/"
       weight: 4
     - identifier: "usc"
       name: "USC"
@@ -92,7 +92,7 @@ menu:
       weight: 5
     - identifier: "cv"
       name: "CV"
-      url: "/assets/data/Resume_Bin.pdf"
+      url: "/assets/data/resume_bin.pdf"
       weight: 6
 
 # Markdown settings

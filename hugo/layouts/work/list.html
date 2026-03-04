@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="container">
+    <h1>{{ .Title }}</h1>
+    <div class="content-section">
+        {{ $work := .Site.Data.work }}
+        {{ $entries := slice
+            (dict "key" "miromind" "data" (index $work "miromind"))
+            (dict "key" "i2r"      "data" (index $work "i2r"))
+            (dict "key" "nus"      "data" (index $work "nus"))
+            (dict "key" "jd"       "data" (index $work "jd"))
+            (dict "key" "ontario"  "data" (index $work "ontario"))
+        }}
+        <ul class="timeline">
+            {{ range $entries }}
+            {{ $d := .data }}
+            <li>
+                <span class="date">{{ $d.period }}</span>
+                <a href="/work/{{ .key }}/">{{ $d.position }}</a>
+                — {{ $d.location }}
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</div>
+{{ end }}

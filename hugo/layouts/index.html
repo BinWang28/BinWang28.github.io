@@ -6,6 +6,9 @@
             <img src="{{ .Site.Params.profile_image | relURL }}" alt="{{ .Site.Params.name }}" class="profile-photo">
             <div class="profile-info">
                 <h1>{{ .Site.Params.name }}, Ph.D.</h1>
+                <p class="profile-title">AI Research Scientist</p>
+                <p class="profile-affiliation">MiroMind AI, Singapore</p>
+                <p class="profile-email"><a href="mailto:bwang28c@gmail.com">bwang28c@gmail.com</a> · <a href="mailto:bin.wang@miromind.ai">bin.wang@miromind.ai</a></p>
                 <div class="social-icons">
                     <a href="{{ .Site.Params.social.linkedin }}" target="_blank" title="LinkedIn" class="social-icon">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
@@ -29,21 +32,42 @@
         <!-- About Section -->
         <div class="about-section">
             <p>My career is driven by a dual passion: advancing technology for the benefit of humanity and the personal joy of discovery.</p>
-            <p>I am an AI researcher at MiroMind AI, an AGI-focused organization under Shanda Group, where I specialize in agentic model development. Before joining MiroMind, I conducted research at A*STAR and the National University of Singapore (NUS). I earned my PhD from the University of Southern California (USC).</p>
+            <p>I am an AI researcher at <a href="https://miromind.ai/" target="_blank">MiroMind AI</a>, an AGI-focused organization under Shanda Group, where I specialize in agentic model development. Before joining MiroMind, I conducted research at <a href="https://www.a-star.edu.sg/" target="_blank">A*STAR</a> and the <a href="https://www.nus.edu.sg/" target="_blank">National University of Singapore (NUS)</a>. I earned my PhD from the <a href="https://www.usc.edu/" target="_blank">University of Southern California (USC)</a>.</p>
             <p>I grew up in Jining, Shandong, and have since lived and worked in several cities across the globe, including Chengdu, Hong Kong, Ontario, and Los Angeles. I am currently based in Singapore, where I really enjoy staying.</p>
         </div>
 
-        <!-- Photo Section -->
-        <div class="photo-section">
-            <img src="{{ "/assets/data/squirral_in_washingtondc.jpg" | relURL }}" alt="Photo">
-            <p class="photo-caption">Shot in 2019 Winter at Washington D.C.</p>
+        <!-- News Section -->
+        <div class="news-section">
+            <h2>News</h2>
+            <ul class="news-list">
+                <li>
+                    <span class="news-date">2025.11</span>
+                    <span>Released <a href="https://arxiv.org/abs/2511.11793" target="_blank">MiroThinker</a>:
+                    Pushing the Performance Boundaries of Open-Source Research Agents
+                    via Model, Context, and Interactive Scaling.</span>
+                </li>
+                <li>
+                    <span class="news-date">2025.05</span>
+                    <span>Released <a href="https://arxiv.org/abs/2507.14683" target="_blank">MiroMind-M1</a>:
+                    An Open-Source Advancement in Mathematical Reasoning via
+                    Context-Aware Multi-Stage Policy Optimization.</span>
+                </li>
+                <li>
+                    <span class="news-date">2025.05</span>
+                    <span>Joined <strong>MiroMind AI</strong> as AI Research Scientist.</span>
+                </li>
+            </ul>
         </div>
 
         <!-- Publications Section -->
         <div class="publications-section">
             <h2>Research</h2>
-            <p>Starting from 2017, I entered the field of NLP and language and representation learning, which later became the core technique of AI after years. My early work focused on the intricacies of neural representations, a path that led to significant contributions in ACL, EMNLP, and NAACL.</p>
-            <p>As the field shifted toward massive pre-trained models, my research pivoted to address the challenges of Multimodal AI, specifically speech and audio signals, integrating linguistic depth with cross-domain data. Today, at MiroMind, I bridge the gap between "the lab" and "the product," applying my doctoral training and my years of research at A*STAR and NUS to solve the next generation of AI agentic challenges in the heart of Singapore's tech ecosystem.</p>
+            <ul class="research-interests">
+                <li>AI Agents &amp; Reasoning</li>
+                <li>Language &amp; Representation Learning</li>
+                <li>Multimodal AI: Speech &amp; Audio LLMs</li>
+                <li>Evaluation &amp; Benchmarking</li>
+            </ul>
             <ul class="publication-list">
                 <li><a href="https://arxiv.org/abs/2511.11793" target="_blank">MiroThinker: Pushing the Performance Boundaries of Open-Source Research..</a> · Technical Report 2025</li>
                 <li><a href="https://aclanthology.org/2025.acl-demo.3/" target="_blank">MERaLiON-AudioLLM: Bridging Audio and Language with Large Language Models</a> · ACL 2025</li>
@@ -58,25 +82,15 @@
 
         <!-- Affiliations Logos Section -->
         <div class="affiliations-section">
-            <div class="logos-track">
-                <div class="logos-slide">
-                    <img src="{{ "/assets/data/logos/miromind.png" | relURL }}" alt="MiroMind" title="MiroMind">
-                    <img src="{{ "/assets/data/logos/astar.png" | relURL }}" alt="A*STAR" title="A*STAR">
-                    <img src="{{ "/assets/data/logos/nus.png" | relURL }}" alt="NUS" title="National University of Singapore">
-                    <img src="{{ "/assets/data/logos/usc.png" | relURL }}" alt="USC" title="University of Southern California">
-                    <img src="{{ "/assets/data/logos/jd.png" | relURL }}" alt="JD AI" title="JD AI Research">
-                    <img src="{{ "/assets/data/logos/uestc.png" | relURL }}" alt="UESTC" title="University of Electronic Science and Technology of China">
-                    <img src="{{ "/assets/data/logos/cityu.png" | relURL }}" alt="CityU" title="City University of Hong Kong">
-                </div>
-                <div class="logos-slide">
-                    <img src="{{ "/assets/data/logos/miromind.png" | relURL }}" alt="MiroMind" title="MiroMind">
-                    <img src="{{ "/assets/data/logos/astar.png" | relURL }}" alt="A*STAR" title="A*STAR">
-                    <img src="{{ "/assets/data/logos/nus.png" | relURL }}" alt="NUS" title="National University of Singapore">
-                    <img src="{{ "/assets/data/logos/usc.png" | relURL }}" alt="USC" title="University of Southern California">
-                    <img src="{{ "/assets/data/logos/jd.png" | relURL }}" alt="JD AI" title="JD AI Research">
-                    <img src="{{ "/assets/data/logos/uestc.png" | relURL }}" alt="UESTC" title="University of Electronic Science and Technology of China">
-                    <img src="{{ "/assets/data/logos/cityu.png" | relURL }}" alt="CityU" title="City University of Hong Kong">
-                </div>
+            <h2>Affiliations</h2>
+            <div class="logos-static">
+                <img src="{{ "/assets/data/logos/miromind.png" | relURL }}" alt="MiroMind" title="MiroMind">
+                <img src="{{ "/assets/data/logos/astar.png" | relURL }}" alt="A*STAR" title="A*STAR">
+                <img src="{{ "/assets/data/logos/nus.png" | relURL }}" alt="NUS" title="National University of Singapore">
+                <img src="{{ "/assets/data/logos/usc.png" | relURL }}" alt="USC" title="University of Southern California">
+                <img src="{{ "/assets/data/logos/jd.png" | relURL }}" alt="JD AI" title="JD AI Research">
+                <img src="{{ "/assets/data/logos/uestc.png" | relURL }}" alt="UESTC" title="University of Electronic Science and Technology of China">
+                <img src="{{ "/assets/data/logos/cityu.png" | relURL }}" alt="CityU" title="City University of Hong Kong">
             </div>
         </div>
     </div>

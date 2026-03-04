@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="container">
+    <h1>{{ .Title }}</h1>
+    <div class="content-section">
+        {{ $edu := .Site.Data.education }}
+        {{ $entries := slice
+            (dict "key" "usc"    "data" (index $edu "usc"))
+            (dict "key" "uestc"  "data" (index $edu "uestc"))
+            (dict "key" "cityu"  "data" (index $edu "cityu"))
+            (dict "key" "jining" "data" (index $edu "jining"))
+        }}
+        <ul class="timeline">
+            {{ range $entries }}
+            {{ $d := .data }}
+            <li>
+                <span class="date">{{ $d.period }}</span>
+                <a href="/education/{{ .key }}/">{{ if $d.degree }}{{ $d.degree }}{{ else }}{{ $d.program }}{{ end }}</a>
+                — {{ $d.institution }}
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</div>
+{{ end }}

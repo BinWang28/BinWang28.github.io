@@ -1,4 +1,4 @@
 ---
-title: "Ontario Tech University (2016)"
+title: "Ontario Tech University"
 ---
 
